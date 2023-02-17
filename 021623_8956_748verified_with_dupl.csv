@@ -1,0 +1,749 @@
+﻿id;eikon_deal_id;verified_deal;potential_deal_cos05;acquiror;manually_checked_acquiror;manually_checked_target;best_match_link_corrected;best_match_review_amount_corrected;full_name;full_name_cleaned;Reviews_cumsum;bucket
+4250;34391281082;1;1;1;1;1;https://www.glassdoor.com/Reviews/Best-Buy-Reviews-E97.htm;3200;Best Buy Co Inc;Best Buy Co;3200;1
+8608;34391281082;1;1;0;1;1;https://www.glassdoor.com/Reviews/Napster-Reviews-E341667.htm;65;Napster Inc;Napster;3265;1
+3999;34391297451;1;1;1;1;1;https://www.glassdoor.com/Reviews/Bank-of-America-Reviews-E8874.htm;32800;Bank of America Corp;Bank of America;36065;1
+8561;34391297451;1;1;0;1;1;https://www.glassdoor.com/Reviews/Countrywide-Financial-Reviews-E184.htm;92;Countrywide Financial Corp;Countrywide Financial;36157;1
+4238;34391298163;1;1;1;1;1;https://www.glassdoor.com/Reviews/Amazon-Reviews-E6036.htm;135311;Amazon.com Inc;Amazon.com;171468;1
+8566;34391298163;1;1;0;1;1;https://www.glassdoor.com/Reviews/Audible-Reviews-E9266.htm;584;Audible Inc;Audible;172052;1
+4018;34391300486;1;1;1;1;1;https://www.glassdoor.com/Reviews/Delta-Air-Lines-Reviews-E197.htm;5400;Delta Air Lines Inc;Delta Air Lines;177452;1
+8579;34391300486;1;1;0;1;1;https://www.glassdoor.com/Reviews/Northwest-Airlines-Reviews-E2623.htm;93;Northwest Airlines Corp;Northwest Airlines;177545;1
+4398;34391301260;1;1;1;1;1;https://www.glassdoor.com/Reviews/HP-Inc-Reviews-E1093161.htm;6170;Hewlett Packard Co;Hewlett Packard;183715;1
+8586;34391301260;1;1;0;1;1;https://www.glassdoor.com/Reviews/Electronic-Data-Systems-Reviews-E3555.htm;692;Electronic Data Systems Corp;Electronic Data Systems;184407;1
+4454;34391301366;1;1;1;1;1;https://www.glassdoor.com/Reviews/Paramount-Reviews-E40260.htm;2370;CBS Corp;CBS;186777;1
+8697;34391301366;1;1;0;1;1;https://www.glassdoor.com/Reviews/CNET-Reviews-E5818.htm;78;CNET Networks Inc;CNET Networks;186855;1
+4481;34391303157;1;1;1;1;1;https://www.glassdoor.com/Reviews/DuPont-Reviews-E215.htm;2512;The Dow Chemical Co;The Dow Chemical;189367;1
+8599;34391303157;1;1;0;1;1;https://www.glassdoor.com/Reviews/Rohm-and-Haas-Reviews-E568.htm;2543;Rohm & Haas Co;Rohm and Haas;191910;1
+4045;34391304078;1;1;1;1;1;https://www.glassdoor.com/Reviews/Planet-Hollywood-International-Reviews-E5503.htm;115;Planet Hollywood International Inc;Planet Hollywood International;192025;1
+8604;34391304078;1;1;0;1;1;https://www.glassdoor.com/Reviews/BUCA-Reviews-E9120.htm;534;Buca Inc;Buca;192559;1
+4046;34391304320;1;1;1;1;1;https://www.glassdoor.com/Reviews/CVS-Health-Reviews-E437.htm;30500;CVS Health Corp;CVS Health;223059;1
+8674;34391304320;1;1;0;1;1;https://www.glassdoor.com/Reviews/Longs-Drug-Reviews-E410.htm;137;Longs Drug Stores Corp;Longs Drug Stores;223196;1
+4055;34391305279;1;1;1;1;1;https://www.glassdoor.com/Reviews/Bank-of-America-Reviews-E8874.htm;32800;Bank of America Corp;Bank of America;255996;1
+8628;34391305279;1;1;0;1;1;https://www.glassdoor.com/Reviews/Merrill-Lynch-Reviews-E440.htm;4600;Merrill Lynch & Co Inc;Merrill Lynch and Co.;260596;1
+4252;34391305925;1;1;1;1;1;https://www.glassdoor.com/Reviews/Wells-Fargo-Reviews-E8876.htm;44000;Wells Fargo & Co;Wells Fargo and Co.;304596;1
+8658;34391305925;1;1;0;1;1;https://www.glassdoor.com/Reviews/Wachovia-Reviews-E13482.htm;822;Wachovia Corp;Wachovia;305418;1
+3592;34391308990;1;1;1;1;1;https://www.glassdoor.com/Reviews/Pfizer-Reviews-E525.htm;6100;Pfizer Inc;Pfizer;311518;1
+8155;34391308990;1;1;0;1;1;https://www.glassdoor.com/Reviews/Wyeth-Reviews-E39.htm;252;Wyeth;Wyeth;311770;1
+3596;34391309245;1;1;1;1;1;https://www.glassdoor.com/Reviews/Live-Nation-Reviews-E4308575.htm;50;Live Nation Inc;Live Nation;311820;1
+8223;34391309245;1;1;0;1;1;https://www.glassdoor.com/Reviews/Ticketmaster-Reviews-E8873.htm;936;Ticketmaster Entertainment Inc;Ticketmaster Entertainment;312756;1
+3759;34391310046;1;1;1;1;1;https://www.glassdoor.com/Reviews/CommerceWest-Bank-Reviews-E1004652.htm;62;CommerceWest Bank NA;CommerceWest Bank NA;312818;1
+8284;34391310046;1;1;0;1;1;https://www.glassdoor.com/Reviews/Discovery-South-Africa-Reviews-E1447615.htm;340;Discovery Bancorp;Discovery Bancorp;313158;1
+3610;34391310867;1;1;1;1;1;https://www.glassdoor.com/Reviews/PulteGroup-Reviews-E506.htm;700;Pulte Homes Inc;Pulte Homes;313858;1
+8164;34391310867;1;1;0;1;1;https://www.glassdoor.com/Reviews/Centex-Reviews-E18912.htm;75;Centex Corp;Centex;313933;1
+3613;34391311049;1;1;1;1;1;https://www.glassdoor.com/Reviews/PepsiCo-Reviews-E522.htm;14200;PepsiCo Inc;PepsiCo;328133;1
+8167;34391311049;1;1;0;1;1;https://www.glassdoor.com/Reviews/PepsiAmericas-Reviews-E733.htm;42;PepsiAmericas Inc;PepsiAmericas;328175;1
+3611;34391311063;1;1;1;1;1;https://www.glassdoor.com/Reviews/Oracle-Reviews-E1737.htm;42400;Oracle Corp;Oracle;370575;1
+8166;34391311063;1;1;0;1;1;https://www.glassdoor.com/Reviews/Sun-Microsystems-Reviews-E1924.htm;1200;Sun Microsystems Inc;Sun Microsystems;371775;1
+3795;34391312102;1;1;1;1;1;https://www.glassdoor.com/Reviews/Intel-Corporation-Reviews-E1519.htm;20900;Intel Corp;Intel;392675;1
+8222;34391312102;1;1;0;1;1;https://www.glassdoor.com/Reviews/Wind-River-Reviews-E2313.htm;468;Wind River Systems Inc;Wind River Systems;393143;1
+3638;34391312502;1;1;1;1;1;https://www.glassdoor.com/Reviews/Republic-Airways-Reviews-E14916.htm;986;Republic Airways Holdings Inc;Republic Airways;394129;1
+8244;34391312502;1;1;0;1;1;https://www.glassdoor.com/Reviews/Frontier-Airlines-Reviews-E5144.htm;792;Frontier Airlines Holdings Inc;Frontier Airlines;394921;1
+3807;34391312596;1;1;1;1;1;https://www.glassdoor.com/Reviews/dressbarn-Reviews-E1345.htm;853;Dress Barn Inc;Dress Barn;395774;1
+8178;34391312596;1;1;0;1;1;https://www.glassdoor.com/Reviews/Tween-Brands-Reviews-E9737.htm;157;Tween Brands Inc;Tween Brands;395931;1
+3673;34391313541;1;1;1;1;1;https://www.glassdoor.com/Reviews/Aetna-Reviews-E16.htm;400;Aetna Inc;Aetna;396331;1
+8259;34391313541;1;1;0;1;1;https://www.glassdoor.com/Reviews/Horizon-Health-Corporation-Reviews-E3996.htm;48;Horizon Health Corp;Horizon Health;396379;1
+3811;34391313877;1;1;1;1;1;https://www.glassdoor.com/Reviews/Steak-n-Shake-Reviews-E1296.htm;1900;Steak n Shake Co;Steak n Shake;398279;1
+8185;34391313877;1;1;0;1;1;https://www.glassdoor.com/Reviews/Western-Sizzlin-Reviews-E3873.htm;50;Western Sizzlin Corp;Western Sizzlin;398329;1
+3644;34391314236;1;1;1;1;1;https://www.glassdoor.com/Reviews/Baker-Hughes-Reviews-E1902699.htm;3400;Baker Hughes Inc;Baker Hughes;401729;1
+8186;34391314236;1;1;0;1;1;https://www.glassdoor.com/Reviews/BJ-Services-Reviews-E909.htm;187;BJ Services Co;BJ Services;401916;1
+3768;34391314240;1;1;1;1;1;https://www.glassdoor.com/Reviews/Walt-Disney-Company-Reviews-E717.htm;9200;Walt Disney Co;Walt Disney;411116;1
+8247;34391314240;1;1;0;1;1;https://www.glassdoor.com/Reviews/Marvel-Entertainment-Reviews-E3929.htm;110;Marvel Entertainment Inc;Marvel Entertainment;411226;1
+3647;34391314657;1;1;1;1;1;https://www.glassdoor.com/Reviews/Adobe-systems-Reviews-EI_IE1090.0,5_KO6,13.htm;8300;Adobe Systems Inc;Adobe Systems;419526;1
+8187;34391314657;1;1;0;1;1;https://www.glassdoor.com/Reviews/Omniture-Reviews-E15169.htm;84;Omniture Inc;Omniture;419610;1
+3787;34391315209;1;1;1;1;1;https://www.glassdoor.com/Reviews/Sitel-Group-Reviews-E11480.htm;9727;Sykes Enterprises Inc;Sykes Enterprises;429337;1
+8250;34391315209;1;1;0;1;1;https://www.glassdoor.com/Reviews/ICT-Group-Reviews-E5960.htm;42;ICT Group Inc;ICT Group;429379;1
+3687;34391315875;1;1;1;1;1;https://www.glassdoor.com/Reviews/Berkshire-Hathaway-Reviews-E805672.htm;693;Berkshire Hathaway Inc;Berkshire Hathaway;430072;1
+8310;34391315875;1;1;0;1;1;https://www.glassdoor.com/Reviews/BNSF-Railway-Reviews-E18514.htm;1934;Burlington Northern Santa Fe LLC;Burlington Northernnta Fe;432006;1
+3669;34391317041;1;1;1;1;1;https://www.glassdoor.com/Reviews/ExxonMobil-Reviews-E237.htm;200;Exxon Mobil Corp;Exxon Mobil;432206;1
+8203;34391317041;1;1;0;1;1;https://www.glassdoor.com/Reviews/XTO-Energy-Reviews-E2299.htm;173;XTO Energy Inc;XTO Energy;432379;1
+3200;34391318444;1;1;1;1;1;https://www.glassdoor.com/Reviews/Manpower-Reviews-E2548.htm;5800;Manpower Inc;Manpower;438179;1
+7825;34391318444;1;1;0;1;1;https://www.glassdoor.com/Reviews/COMSYS-IT-Partners-Reviews-E5110.htm;47;COMSYS IT Partners Inc;COMSYS IT Partners;438226;1
+3404;34391320358;1;1;1;1;1;https://www.glassdoor.com/Reviews/Visa-Inc-Reviews-E3035.htm;4600;Visa Inc;Visa;442826;1
+7766;34391320358;1;1;0;1;1;https://www.glassdoor.com/Reviews/Cybersource-Reviews-E4068.htm;111;CyberSource Corp;CyberSource;442937;1
+3033;34391321859;1;1;1;1;1;https://www.glassdoor.com/Reviews/DISH-Reviews-E4501.htm;6516;DISH Network Corp;DISH Network;449453;1
+7388;34391321859;1;1;0;1;1;https://www.glassdoor.com/Reviews/Blockbuster-Reviews-E2984956.htm;153;Blockbuster Inc;Blockbuster;449606;1
+3250;34391323451;1;1;1;1;1;https://www.glassdoor.com/Reviews/International-Business-Machines-Corporation-Reviews-E354.htm;83203;Kenexa Corp;Kenexa;532809;1
+7785;34391323451;1;1;0;1;1;https://www.glassdoor.com/Reviews/Salary-com-Reviews-E35301.htm;69;Salary.com Inc;Salary.com;532878;1
+3257;34391324218;1;1;1;1;1;https://www.glassdoor.com/Reviews/Unilever-Reviews-E3513.htm;10400;Unilever PLC;Unilever;543278;2
+7838;34391324218;1;1;0;1;1;https://www.glassdoor.com/Reviews/Alberto-Culver-Reviews-E21.htm;56;Alberto-Culver Co;Alberto-Culver;543334;2
+2840;34391324700;1;1;1;1;1;https://www.glassdoor.com/Reviews/Exelon-Reviews-E526.htm;927;Exelon Corp;Exelon;544261;2
+7473;34391324700;1;1;0;1;1;https://www.glassdoor.com/Reviews/Constellation-Reviews-E75.htm;380;Constellation Energy Group Inc;Constellation Energy Group;544641;2
+3273;34391324969;1;1;1;1;1;https://www.glassdoor.com/Reviews/M-and-T-Bank-Reviews-E858.htm;1900;M&T Bank Corp;MandT Bank;546541;2
+7799;34391324969;1;1;0;1;1;https://www.glassdoor.com/Reviews/Wilmington-Trust-Reviews-E2044.htm;104;Wilmington Trust Corp;Wilmington Trust;546645;2
+3291;34391325098;1;1;1;1;1;https://www.glassdoor.com/Reviews/McKesson-Reviews-E434.htm;4700;McKesson Corp;McKesson;551345;2
+7823;34391325098;1;1;0;1;1;https://www.glassdoor.com/Reviews/The-US-Oncology-Network-Reviews-E4197.htm;161;US Oncology Inc;US Oncology;551506;2
+3547;34391325927;1;1;1;1;1;https://www.glassdoor.com/Reviews/Southern-Company-Reviews-E607.htm;758;AGL Resources Inc;AGL Resources;552264;2
+7848;34391325927;1;1;0;1;1;https://www.glassdoor.com/Reviews/Nicor-Reviews-E459.htm;121;Nicor Inc;Nicor;552385;2
+3280;34391326061;1;1;1;1;1;https://www.glassdoor.com/Reviews/Uni-Select-Reviews-E9362.htm;113;Uni-Select Inc;Uni-Select;552498;2
+7801;34391326061;1;1;0;1;1;https://www.glassdoor.com/Reviews/FinishMaster-Reviews-E2562.htm;96;FinishMaster Inc;FinishMaster;552594;2
+2822;34391326106;1;1;1;1;1;https://www.glassdoor.com/Reviews/Danaher-Reviews-E193.htm;596;Danaher Corp;Danaher;553190;2
+7470;34391326106;1;1;0;1;1;https://www.glassdoor.com/Reviews/Beckman-Coulter-Diagnostics-Reviews-E87.htm;1300;Beckman Coulter Inc;Beckman Coulter;554490;2
+3110;34391328588;1;1;1;1;1;https://www.glassdoor.com/Reviews/Prologis-Reviews-E2631.htm;221;Amb Property Corp;Amb Property;554711;2
+7434;34391328588;1;1;0;1;1;https://www.glassdoor.com/Reviews/Prologis-Reviews-E2631.htm;221;ProLogis;ProLogis;554932;2
+2821;34391328741;1;1;1;1;1;https://www.glassdoor.com/Reviews/Spectrum-Reviews-E1500006.htm;12285;Time Warner Cable Inc;Time Warner Cable;567217;2
+7378;34391328741;1;1;0;1;1;https://www.glassdoor.com/Reviews/Navisite-Reviews-E3111542.htm;133;NaviSite Inc;NaviSite;567350;2
+2830;34391329991;1;1;1;1;1;https://www.glassdoor.com/Reviews/Berkshire-Hathaway-Reviews-E805672.htm;693;Berkshire Hathaway Inc;Berkshire Hathaway;568043;2
+7385;34391329991;1;1;0;1;1;https://www.glassdoor.com/Reviews/Lubrizol-Reviews-E416.htm;521;Lubrizol Corp;Lubrizol;568564;2
+2839;34391331178;1;1;1;1;1;https://www.glassdoor.com/Reviews/CENTURYLINK-Reviews-E3144184.htm;329;CenturyLink Inc;CenturyLink;568893;2
+7441;34391331178;1;1;0;1;1;https://www.glassdoor.com/Reviews/Savvis-Reviews-E11084.htm;149;SAVVIS Inc;SAVVIS;569042;2
+4288;34391744090;1;1;1;1;1;https://www.glassdoor.com/Reviews/WPP-Reviews-E4035.htm;654;WPP Group PLC;WPP Group;569696;2
+8736;34391744090;1;1;0;1;1;https://www.glassdoor.com/Reviews/TNS-Global-Reviews-E10248.htm;352;Taylor Nelson Sofres PLC;Taylor Nelson Sofres;570048;2
+4462;34391744524;1;1;1;1;1;https://www.glassdoor.com/Reviews/Westpac-Group-Reviews-E5769.htm;2533;Westpac Banking Corp;Westpac Banking;572581;2
+8584;34391744524;1;1;0;1;1;https://www.glassdoor.com/Reviews/St-George-Bank-Reviews-E12774.htm;122;St George Bank Ltd;St George Bank;572703;2
+4293;34391757190;1;1;1;1;1;https://www.glassdoor.com/Reviews/Lloyds-Banking-Group-Reviews-E316191.htm;4100;Lloyds TSB Group PLC;Lloyds TSB Group;576803;2
+8609;34391757190;1;1;0;1;1;https://www.glassdoor.com/Reviews/HBOS-Reviews-E6961.htm;42;HBOS PLC;HBOS;576845;2
+4289;34391764790;1;1;1;1;1;https://www.glassdoor.com/Reviews/WPP-Reviews-E4035.htm;654;WPP Group PLC;WPP Group;577499;2
+8641;34391764790;1;1;0;1;1;https://www.glassdoor.com/Reviews/WPP-Reviews-E4035.htm;654;WPP Group PLC;WPP Group;578153;2
+3774;34391777212;1;1;1;1;1;https://www.glassdoor.com/Reviews/Suncor-Reviews-E6818.htm;792;Suncor Energy Inc;Suncor Energy;578945;2
+8208;34391777212;1;1;0;1;1;https://www.glassdoor.com/Reviews/Petro-Canada-Reviews-E7009.htm;433;Petro-Canada;Petro-Canada;579378;2
+3629;34391786281;1;1;1;1;1;https://www.glassdoor.com/Reviews/Thomson-Reuters-Reviews-E100303.htm;3200;Thomson Reuters Corp;Thomson Reuters;582578;2
+8240;34391786281;1;1;0;1;1;https://www.glassdoor.com/Reviews/Thomson-Reuters-Reviews-E100303.htm;3200;Thomson Reuters PLC;Thomson Reuters;585778;2
+3779;34391798444;1;1;1;1;1;https://www.glassdoor.com/Reviews/Toromont-Reviews-E8803.htm;118;Toromont Industries Ltd;Toromont Industries;585896;2
+8228;34391798444;1;1;0;1;1;https://www.glassdoor.com/Reviews/Enerflex-Reviews-E8731.htm;145;Enerflex Systems Income Fund;Enerflex Systemsome Fund;586041;2
+3203;34391811270;1;1;1;1;1;https://www.glassdoor.com/Reviews/Babcock-International-Group-Reviews-E10114.htm;100;Babcock International Group PLC;Babcock International Group;586141;2
+7875;34391811270;1;1;0;1;1;https://www.glassdoor.com/Reviews/VTG-Reviews-E216117.htm;117;VT Group PLC;VT Group;586258;2
+2847;34392043742;1;1;1;1;1;https://www.glassdoor.com/Reviews/International-Paper-Reviews-E356.htm;200;International Paper Co;International Paper;586458;2
+7397;34392043742;1;1;0;1;1;https://www.glassdoor.com/Reviews/Temple-Inland-Reviews-E645.htm;62;Temple-Inland Inc;Temple-Inland;586520;2
+2429;34392044153;1;1;1;1;1;https://www.glassdoor.com/Reviews/Hologic-Reviews-E1568.htm;878;Hologic Inc;Hologic;587398;2
+6982;34392044153;1;1;0;1;1;https://www.glassdoor.com/Reviews/Gen-Probe-Reviews-E15134.htm;56;Gen-Probe Inc;Gen-Probe;587454;2
+3047;34392085689;1;1;1;1;1;https://www.glassdoor.com/Reviews/Saga-Group-Reviews-E37545.htm;304;Saga Group Ltd;Saga Group;587758;2
+7464;34392085689;1;1;0;1;1;https://www.glassdoor.com/Reviews/Allied-Healthcare-Reviews-E3845.htm;174;Allied Healthcare International Inc;Allied Healthcare International;587932;2
+2870;34392112687;1;1;1;1;1;https://www.glassdoor.com/Reviews/Raytheon-Technologies-Reviews-E561.htm;6640;United Technologies Corp;United Technologies;594572;2
+7407;34392112687;1;1;0;1;1;https://www.glassdoor.com/Reviews/Goodrich-Reviews-E68.htm;192;Goodrich Corp;Goodrich;594764;2
+2650;34392144456;1;1;1;1;1;https://www.glassdoor.com/Reviews/American-Airlines-Reviews-E8.htm;6214;AMR Corp;AMR;600978;2
+7078;34392144456;1;1;0;1;1;https://www.glassdoor.com/Reviews/US-Airways-Reviews-E685.htm;519;US Airways Group Inc;US Airways Group;601497;2
+2619;34392649641;1;1;1;1;1;https://www.glassdoor.com/Reviews/Eastman-Reviews-E2452.htm;1977;Eastman Chemical Co;Eastman Chemical;603474;2
+6971;34392649641;1;1;0;1;1;https://www.glassdoor.com/Reviews/Solutia-Reviews-E7158.htm;49;Solutia Inc;Solutia;603523;2
+2645;34392671084;1;1;1;1;1;https://www.glassdoor.com/Reviews/FirstService-Residential-Reviews-E307071.htm;1532;FirstService Corp;FirstService;605055;2
+7124;34392671084;1;1;0;1;1;https://www.glassdoor.com/Reviews/Colliers-Reviews-E12136.htm;1700;Colliers International UK PLC;Colliers International UK;606755;2
+2424;34392674380;1;1;1;1;1;https://www.glassdoor.com/Reviews/Danaher-Reviews-E193.htm;596;Danaher Corp;Danaher;607351;2
+6978;34392674380;1;1;0;1;1;https://www.glassdoor.com/Reviews/X-Rite-Reviews-E2048.htm;68;X-Rite Inc;X-Rite;607419;2
+2691;34392679945;1;1;1;1;1;https://www.glassdoor.com/Reviews/Energy-Transfer-Reviews-E6125.htm;439;Energy Transfer Partners LP;Energy Transfer Partners;607858;2
+7062;34392679945;1;1;0;1;1;https://www.glassdoor.com/Reviews/Sunoco-Reviews-E629.htm;455;Sunoco Inc;Sunoco;608313;2
+2762;34392693221;1;1;1;1;1;https://www.glassdoor.com/Reviews/Dell-Technologies-Reviews-E1327.htm;26900;Dell Inc;Dell;635213;2
+6997;34392693221;1;1;0;1;1;https://www.glassdoor.com/Reviews/Quest-Software-Reviews-E9404.htm;886;Quest Software Inc;Quest Software;636099;2
+2449;34392714060;1;1;1;1;1;https://www.glassdoor.com/Reviews/Ingram-Micro-Reviews-E5794.htm;2800;Ingram Micro Inc;Ingram Micro;638899;2
+6998;34392714060;1;1;0;1;1;https://www.glassdoor.com/Reviews/Brightpoint-Reviews-E2638.htm;52;Brightpoint Inc;Brightpoint;638951;2
+2450;34392716951;1;1;1;1;1;https://www.glassdoor.com/Reviews/Elevance-Health-Reviews-E925157.htm;4206;WellPoint Inc;WellPoint;643157;2
+6999;34392716951;1;1;0;1;1;https://www.glassdoor.com/Reviews/Amerigroup-Reviews-E12022.htm;365;Amerigroup Corp;Amerigroup;643522;2
+2455;34392723054;1;1;1;1;1;https://www.glassdoor.com/Reviews/NRG-Energy-Reviews-E11895.htm;676;NRG Energy Inc;NRG Energy;644198;2
+7001;34392723054;1;1;0;1;1;https://www.glassdoor.com/Reviews/GenOn-Energy-Reviews-E381442.htm;46;GenOn Energy Inc;GenOn Energy;644244;2
+2593;34392727230;1;1;1;1;1;https://www.glassdoor.com/Reviews/Brookfield-Renewable-Reviews-E22817.htm;311;Brookfield Renewable Energy Partners LP;Brookfield Renewable Energy Partners;644555;2
+7159;34392727230;1;1;0;1;1;0;40;Western Wind Energy Corp;Western Wind Energy;644595;2
+2465;34392735280;1;1;1;1;1;https://www.glassdoor.com/Reviews/Aetna-Reviews-E16.htm;400;Aetna Inc;Aetna;644995;2
+7012;34392735280;1;1;0;1;1;https://www.glassdoor.com/Reviews/Coventry-Health-Care-Reviews-E178.htm;458;Coventry Health Care Inc;Coventry Health Care;645453;2
+2697;34392736540;1;1;1;1;1;https://www.glassdoor.com/Reviews/Welltower-Reviews-E1166198.htm;79;Health Care REIT Inc;Health Care REIT;645532;2
+7014;34392736540;1;1;0;1;1;https://www.glassdoor.com/Reviews/Sunrise-Senior-Living-Reviews-E6023.htm;2200;Sunrise Senior Living Inc;Sunrise Senior Living;647732;2
+2466;34392738134;1;1;1;1;1;https://www.glassdoor.com/Reviews/M-and-T-Bank-Reviews-E858.htm;1900;M&T Bank Corp;MandT Bank;649632;2
+7015;34392738134;1;1;0;1;1;https://www.glassdoor.com/Reviews/Hudson-City-Bancorp-Reviews-E9174.htm;69;Hudson City Bancorp Inc;Hudson City Bancorp;649701;2
+2733;34392754746;1;1;1;1;1;https://www.glassdoor.com/Reviews/Tempur-Sealy-International-Reviews-E26592.htm;328;Tempur-Pedic International Inc;Tempur-Pedic International;650029;2
+7022;34392754746;1;1;0;1;1;https://www.glassdoor.com/Reviews/Tempur-Sealy-International-Reviews-E26592.htm;322;Sealy Corp;Sealy;650351;2
+2474;34392769024;1;1;1;1;1;https://www.glassdoor.com/Reviews/Riverbed-Technology-Reviews-E34920.htm;1200;Riverbed Technology Inc;Riverbed Technology;651551;2
+7056;34392769024;1;1;0;1;1;https://www.glassdoor.com/Reviews/OPNET-Reviews-E11721.htm;55;OPNET Technologies Inc;OPNET Technologies;651606;2
+2625;34392769750;1;1;1;1;1;https://www.glassdoor.com/Reviews/PVH-Corp-Reviews-E530.htm;1600;PVH Corp;PVH;653206;2
+7027;34392769750;1;1;0;1;1;https://www.glassdoor.com/Reviews/Warnaco-Group-Reviews-E958.htm;58;Warnaco Group Inc;Warnaco Group;653264;2
+2603;34392774765;1;1;1;1;1;https://www.glassdoor.com/Reviews/Leon-s-Furniture-Reviews-E13755.htm;379;Leon's Furniture Ltd;Leon's Furniture;653643;2
+7071;34392774765;1;1;0;1;1;https://www.glassdoor.com/Reviews/The-Brick-Reviews-E13808.htm;468;The Brick Ltd;The Brick;654111;2
+2492;34392775084;1;1;1;1;1;https://www.glassdoor.com/Reviews/Ziff-Davis-Reviews-E6132150.htm;57;J2 Global Inc;J2 Global;654168;2
+7075;34392775084;1;1;0;1;1;https://www.glassdoor.com/Reviews/Ziff-Davis-Reviews-E6132150.htm;40;Ziff Davis Inc;Ziff Davis;654208;2
+2479;34392776758;1;1;1;1;1;https://www.glassdoor.com/Reviews/Starbucks-Reviews-E2202.htm;53200;Starbucks Corp;Starbucks;707408;2
+7032;34392776758;1;1;0;1;1;https://www.glassdoor.com/Reviews/Teavana-Reviews-E151659.htm;100;Teavana Holdings Inc;Teavana;707508;2
+2606;34392795255;1;1;1;1;1;https://www.glassdoor.com/Reviews/Honeywell-Reviews-E28.htm;16200;Honeywell International Inc;Honeywell International;723708;2
+7148;34392795255;1;1;0;1;1;https://www.glassdoor.com/Reviews/Intermec-Technologies-Reviews-E387086.htm;90;Intermec Inc;Intermec;723798;2
+2260;34392797355;1;1;1;1;1;https://www.glassdoor.com/Reviews/Bausch-Health-Reviews-E2180969.htm;210;Valeant Pharmaceuticals International Inc;Valeant Pharmaceuticals International;724008;2
+6688;34392797355;1;1;0;1;1;https://www.glassdoor.com/Reviews/Bausch-Lomb-Reviews-E82.htm;536;Bausch & Lomb Inc;Bausch and Lomb;724544;2
+2766;34392802434;1;1;1;1;1;https://www.glassdoor.com/Reviews/Stock-Yards-Bank-and-Trust-Reviews-E275481.htm;84;SY Bancorp Inc;SY Bancorp;724628;2
+7106;34392802434;1;1;0;1;1;https://www.glassdoor.com/Reviews/The-Bancorp-Reviews-E34951.htm;89;Bancorp Inc;Bancorp;724717;2
+2617;34392803690;1;1;1;1;1;https://www.glassdoor.com/Reviews/COGECO-Reviews-E7464.htm;179;Cogeco Cable Inc;Cogeco Cable;724896;2
+7099;34392803690;1;1;0;1;1;https://www.glassdoor.com/Reviews/Cogeco-Peer1-Reviews-E306818.htm;218;Peer 1 Network Enterprises Inc;Peer 1 Network Enterprises;725114;2
+2045;34392808944;1;1;1;1;1;https://www.glassdoor.com/Reviews/Avis-Budget-Group-Reviews-E7303.htm;300;Avis Budget Group Inc;Avis Budget Group;725414;2
+6607;34392808944;1;1;0;1;1;https://www.glassdoor.com/Reviews/Zipcar-Reviews-E38123.htm;349;Zipcar Inc;Zipcar;725763;2
+2046;34392810822;1;1;1;1;1;https://www.glassdoor.com/Reviews/athenahealth-Reviews-E18207.htm;808;athenahealth Inc;athenahealth;726571;2
+6608;34392810822;1;1;0;1;1;https://www.glassdoor.com/Reviews/Epocrates-Reviews-E100314.htm;59;Epocrates Inc;Epocrates;726630;2
+2248;34392825482;1;1;1;1;1;https://www.glassdoor.com/Reviews/Reliance-Steel-Reviews-E3693.htm;64;Reliance Steel & Aluminum Co;Reliance Steel and Aluminum;726694;2
+6693;34392825482;1;1;0;1;1;https://www.glassdoor.com/Reviews/Metals-USA-Reviews-E6866.htm;52;Metals USA Holdings Corp;Metals USA;726746;2
+2053;34392825873;1;1;1;1;1;https://www.glassdoor.com/Reviews/Liberty-Global-Reviews-E38776.htm;386;Liberty Global Inc;Liberty Global;727132;2
+6614;34392825873;1;1;0;1;1;https://www.glassdoor.com/Reviews/Virgin-Media-Reviews-E36248.htm;1633;Virgin Media Inc;Virgin Media;728765;2
+2078;34392828564;1;1;1;1;1;https://www.glassdoor.com/Reviews/Kroger-Reviews-E386.htm;17600;Kroger Co;Kroger;746365;2
+6689;34392828564;1;1;0;1;1;https://www.glassdoor.com/Reviews/Harris-Teeter-Reviews-E18182.htm;400;Harris Teeter Supermarkets Inc;Harris Teeter Supermarkets;746765;2
+2056;34392838366;1;1;1;1;1;https://www.glassdoor.com/Reviews/Encore-Capital-Group-Reviews-E9296.htm;588;Encore Capital Group Inc;Encore Capital Group;747353;2
+6620;34392838366;1;1;0;1;1;https://www.glassdoor.com/Reviews/Asset-Acceptance-Capital-Reviews-E30129.htm;65;Asset Acceptance Capital Corp;Asset Acceptance Capital;747418;2
+2320;34392868862;1;1;1;1;1;https://www.glassdoor.com/Reviews/Crestwood-Equity-Partners-Reviews-E42514.htm;50;Inergy Midstream LP;Inergy Midstream;747468;2
+6765;34392868862;1;1;0;1;1;https://www.glassdoor.com/Reviews/Crestwood-Equity-Partners-Reviews-E42514.htm;50;Crestwood Midstream Partners LP;Crestwood Midstream Partners;747518;2
+2068;34392870166;1;1;1;1;1;https://www.glassdoor.com/Reviews/Zillow-Reviews-E40802.htm;1640;Trulia Inc;Trulia;749158;2
+6626;34392870166;1;1;0;1;1;https://www.glassdoor.com/Reviews/Market-Leader-Reviews-E37539.htm;126;Market Leader Inc;Market Leader;749284;2
+2247;34392882279;1;1;1;1;1;https://www.glassdoor.com/Reviews/Service-Corporation-International-Reviews-E594.htm;1500;Service Corp International;Service International;750784;2
+6630;34392882279;1;1;0;1;1;https://www.glassdoor.com/Reviews/Stewart-Enterprises-Reviews-E2096.htm;50;Stewart Enterprises Inc;Stewart Enterprises;750834;2
+3236;34392894527;1;1;1;1;1;https://www.glassdoor.com/Reviews/Bausch-Health-Reviews-E2180969.htm;210;Biovail Corp;Biovail;751044;2
+7931;34392894527;1;1;0;1;1;https://www.glassdoor.com/Reviews/Valeant-Reviews-E343.htm;209;Valeant Pharmaceuticals International Inc;Valeant Pharmaceuticals International;751253;2
+2236;34392903491;1;1;1;1;1;https://www.glassdoor.com/Reviews/Loblaw-Companies-Reviews-E4141.htm;3700;Loblaw Cos Ltd;Loblaw Cos;754953;2
+6633;34392903491;1;1;0;1;1;https://www.glassdoor.com/Reviews/Shoppers-Drug-Mart-Reviews-E12129.htm;5100;Shoppers Drug Mart Corp;Shoppers Drug Mart;760053;2
+2088;34392915474;1;1;1;1;1;https://www.glassdoor.com/Reviews/Hanesbrands-Reviews-E13758.htm;834;Hanesbrands Inc;Hanesbrands;760887;2
+6680;34392915474;1;1;0;1;1;https://www.glassdoor.com/Reviews/Maidenform-Reviews-E4412.htm;76;Maidenform Brands Inc;Maidenform Brands;760963;2
+2245;34393008006;1;1;1;1;1;https://www.glassdoor.com/Reviews/Tailored-Brands-Reviews-E1335240.htm;259;The Men's Wearhouse Inc;The Men's Wearhouse;761222;2
+6690;34393008006;1;1;0;1;1;https://www.glassdoor.com/Reviews/JoS-A-Bank-Reviews-E3599.htm;1100;Jos A Bank Clothiers Inc;Jos A Bank Clothiers;762322;2
+1685;34393010351;1;1;1;1;1;https://www.glassdoor.com/Reviews/AMEC-Reviews-E945391.htm;49;AMEC PLC;AMEC;762371;2
+6361;34393010351;1;1;0;1;1;https://www.glassdoor.com/Reviews/Amec-Foster-Wheeler-Reviews-E10840.htm;1100;Foster Wheeler AG;Foster Wheeler;763471;2
+2284;34393015836;1;1;1;1;1;https://www.glassdoor.com/Reviews/Avago-Technologies-Reviews-E40386.htm;301;Avago Technologies Ltd;Avago Technologies;763772;2
+6706;34393015836;1;1;0;1;1;https://www.glassdoor.com/Reviews/LSI-Reviews-E1579.htm;624;LSI Corp;LSI;764396;2
+2259;34393016142;1;1;1;1;1;https://www.glassdoor.com/Reviews/Bausch-Health-Reviews-E2180969.htm;210;Valeant Pharmaceuticals International Inc;Valeant Pharmaceuticals International;764606;2
+6659;34393016142;1;1;0;1;1;https://www.glassdoor.com/Reviews/Solta-Medical-Reviews-E42000.htm;40;Solta Medical Inc;Solta Medical;764646;2
+1897;34393023946;1;1;1;1;1;https://www.glassdoor.com/Reviews/Verso-Reviews-E42595.htm;139;Verso Paper Corp;Verso Paper;764785;2
+6353;34393023946;1;1;0;1;1;https://www.glassdoor.com/Reviews/NewPage-Reviews-E38178.htm;55;NewPage Holdings Inc;NewPage;764840;2
+1907;34393029305;1;1;1;1;1;https://www.glassdoor.com/Reviews/ConnectOne-Bank-Reviews-E925514.htm;79;Center Bancorp Inc;Center Bancorp;764919;2
+6356;34393029305;1;1;0;1;1;https://www.glassdoor.com/Reviews/ConnectOne-Bank-Reviews-E925514.htm;84;ConnectOne Bancorp Inc;ConnectOne Bancorp;765003;2
+1694;34393042702;1;1;1;1;1;https://www.glassdoor.com/Reviews/Brookdale-Senior-Living-Reviews-E6433.htm;4300;Brookdale Senior Living Inc;Brookdale Senior Living;769303;2
+6334;34393042702;1;1;0;1;1;https://www.glassdoor.com/Reviews/EMERITUS-Reviews-E1691758.htm;451;Emeritus Corp;Emeritus;769754;2
+1696;34393046458;1;1;1;1;1;https://www.glassdoor.com/Reviews/Mattel-Reviews-E428.htm;1200;Mattel Inc;Mattel;770954;2
+6252;34393046458;1;1;0;1;1;https://www.glassdoor.com/Reviews/MEGA-Brands-Reviews-E20087.htm;67;Mega Brands Inc;Mega Brands;771021;2
+1704;34393084151;1;1;1;1;1;https://www.glassdoor.com/Reviews/AMETEK-Reviews-E7.htm;621;AMETEK Inc;AMETEK;771642;2
+6256;34393084151;1;1;0;1;1;https://www.glassdoor.com/Reviews/Zygo-Reviews-E2055.htm;47;Zygo Corp;Zygo;771689;2
+1775;34393093937;1;1;1;1;1;https://www.glassdoor.com/Reviews/Zimmer-Biomet-Reviews-E1017414.htm;1818;Zimmer Holdings Inc;Zimmer;773507;2
+6398;34393093937;1;1;0;1;1;https://www.glassdoor.com/Reviews/Zimmer-Biomet-Reviews-E1017414.htm;1800;Biomet Inc;Biomet;775307;2
+1709;34393099861;1;1;1;1;1;https://www.glassdoor.com/Reviews/Orbital-ATK-Reviews-E957249.htm;294;Alliant Techsystems Inc;Alliant Techsystems;775601;2
+6258;34393099861;1;1;0;1;1;https://www.glassdoor.com/Reviews/Orbital-Sciences-Reviews-E1285.htm;181;Orbital Sciences Corp;Orbital Sciences;775782;2
+1714;34393104597;1;1;1;1;1;https://www.glassdoor.com/Reviews/AT-and-T-Reviews-E613.htm;33600;AT&T Inc;ATandT;809382;2
+6262;34393104597;1;1;0;1;1;https://www.glassdoor.com/Reviews/DIRECTV-Reviews-E5773589.htm;144;DirecTV Inc;DirecTV;809526;2
+1097;34393122896;1;1;1;1;1;https://www.glassdoor.com/Reviews/Collins-Aerospace-Reviews-E2375726.htm;2694;Rockwell Collins Inc;Rockwell Collins;812220;2
+5652;34393122896;1;1;0;1;1;https://www.glassdoor.com/Reviews/BE-Aerospace-Reviews-E727.htm;458;B/E Aerospace Inc;B/E Aerospace;812678;2
+1712;34393123428;1;1;1;1;1;https://www.glassdoor.com/Reviews/Staples-Reviews-E1909.htm;11900;Staples Inc;Staples;824578;2
+6337;34393123428;1;1;0;1;1;https://www.glassdoor.com/Reviews/PNI-Digital-Media-Reviews-E256918.htm;118;PNI Digital Media Inc;PNI Digital Media;824696;2
+1717;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Tyson-Foods-Reviews-E1975.htm;2100;Tyson Foods Inc;Tyson Foods;826796;2
+6263;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Hillshire-Brands-Reviews-E624483.htm;122;Hillshire Brands Co;Hillshire Brands;826918;2
+1705;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Informa-Reviews-E9185.htm;1215;Informa PLC;Informa;828133;2
+6257;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Informa-Reviews-E9185.htm;1215;Informa PLC;Informa;829348;2
+1895;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Priceline-com-Reviews-E9005.htm;289;The Priceline Group Inc;The Priceline Group;829637;2
+6268;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/OpenTable-Reviews-E11574.htm;437;OpenTable Inc;OpenTable;830074;2
+1726;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Oracle-Reviews-E1737.htm;42400;Oracle Corp;Oracle;872474;2
+6271;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/MICROS-Systems-Reviews-E1649.htm;312;MICROS Systems Inc;MICROS Systems;872786;2
+13;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Microsoft-Reviews-E1651.htm;35800;Microsoft Corp;Microsoft;908586;2
+4655;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Nuance-Reviews-E5667.htm;2700;Nuance Communications Inc;Nuance Communications;911286;2
+1737;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Dollar-Tree-Reviews-E4033.htm;6900;Dollar Tree Inc;Dollar Tree;918186;2
+6281;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Family-Dollar-Stores-Reviews-E243.htm;4700;Family Dollar Stores Inc;Family Dollar Stores;922886;2
+1730;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Kroger-Reviews-E386.htm;17600;Kroger Co;Kroger;940486;2
+6324;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Vitacost-Reviews-E15555.htm;160;Vitacost.com Inc;Vitacost.com;940646;2
+1735;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Realogy-Reviews-E41918.htm;509;Realogy Holdings Corp;Realogy;941155;2
+6279;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/ZipRealty-Reviews-E35253.htm;120;ZipRealty Inc;ZipRealty;941275;2
+1740;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Scientific-Games-Reviews-E1998.htm;1200;Scientific Games Corp;Scientific Games;942475;2
+6283;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Bally-Technologies-Reviews-E1990.htm;412;Bally Technologies Inc;Bally Technologies;942887;2
+1888;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Burger-King-Reviews-E7201.htm;12800;Burger King Worldwide Inc;Burger King Worldwide;955687;2
+6285;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Tim-Hortons-Reviews-E15227.htm;7600;Tim Hortons Inc;Tim Hortons;963287;2
+1525;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/dressbarn-Reviews-E1345.htm;853;Ascena Retail Group Inc;Ascena Retail Group;964140;2
+6038;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Ann-Inc-Reviews-E1972.htm;3049;ANN Inc;ANN;967189;2
+1845;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/1-800-FLOWERS-COM-Inc-Reviews-E4117.htm;316;1-800-Flowers.com Inc;1-800-Flowers.com;967505;2
+6288;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Harry-and-David-Reviews-E17977.htm;347;Harry & David Holdings Inc;Harry and David;967852;2
+1956;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Octopus-Reviews-E36654.htm;258;Octopus VCT PLC;Octopus VCT;968110;2
+6394;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Octopus-Reviews-E36654.htm;258;Octopus Apollo VCT PLC;Octopus Apollo VCT;968368;2
+1918;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/STERIS-Reviews-E333.htm;705;STERIS Corp;STERIS;969073;2
+6358;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Synergy-Healthcare-Reviews-E25628.htm;62;Synergy Health PLC;Synergy Health;969135;2
+1764;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Truist-Financial-Corporation-Reviews-E3145458.htm;2300;BB&T Corp;BBandT;971435;2
+6346;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Susquehanna-Bancshares-Reviews-E1930.htm;69;Susquehanna Bancshares Inc;Susquehanna Bancshares;971504;2
+1767;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/BCE-Reviews-E4001.htm;71;BCE Inc;BCE;971575;2
+6305;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Glentel-Reviews-E23518.htm;359;GLENTEL Inc;GLENTEL;971934;2
+1768;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Infineon-Technologies-Reviews-E8915.htm;1854;Cypress Semiconductor Corp;Cypress Semiconductor;973788;2
+6306;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Spansion-Reviews-E35093.htm;152;Spansion Inc;Spansion;973940;2
+1769;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/OpenText-Reviews-E5694.htm;3200;OpenText Corp;OpenText;977140;2
+6307;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Actuate-Reviews-E7344.htm;81;Actuate Corp;Actuate;977221;2
+1521;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Verizon-Reviews-E89.htm;28400;Verizon Communications Inc;Verizon Communications;1005621;2
+5910;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/AOL-Reviews-E2151.htm;1400;AOL Inc;AOL;1007021;2
+1324;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/AmerisourceBergen-Reviews-E2703.htm;1600;Amerisourcebergen Corp;Amerisourcebergen;1008621;2
+6041;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Midwest-Veterinary-Supply-Reviews-E197712.htm;56;MWI Veterinary Supply Inc;MWI Veterinary Supply;1008677;2
+1328;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Lattice-Semiconductor-Reviews-E847.htm;179;Lattice Semiconductor Corp;Lattice Semiconductor;1008856;2
+5886;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Silicon-Image-Reviews-E9641.htm;74;Silicon Image Inc;Silicon Image;1008930;2
+1528;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Bausch-Health-Reviews-E2180969.htm;210;Valeant Pharmaceuticals International Inc;Valeant Pharmaceuticals International;1009140;2
+5893;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Salix-Pharmaceuticals-Reviews-E12920.htm;107;Salix Pharmaceuticals Ltd;Salix Pharmaceuticals;1009247;2
+1333;1,54E+11;1;1;1;1;1;https://www.glassdoor.co.uk/Reviews/Expedia-Reviews-E5605043.htm;59;Expedia Inc;Expedia;1009306;2
+5892;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Orbitz-Worldwide-Reviews-E12146.htm;558;Orbitz Worldwide Inc;Orbitz Worldwide;1009864;2
+1487;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/The-J-M-Smucker-Co-Reviews-E362.htm;806;The JM Smucker Co;The JM Smucker;1010670;2
+5963;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Big-Heart-Pet-Brands-Reviews-E2761.htm;170;Big Heart Pet Brands Corp;Big Heart Pet Brands;1010840;2
+1331;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/MaxLinear-Reviews-E354387.htm;183;MaxLinear Inc;MaxLinear;1011023;2
+5889;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Entropic-Communications-Reviews-E30991.htm;75;Entropic Communications Inc;Entropic Communications;1011098;2
+1332;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Pfizer-Reviews-E525.htm;6100;Pfizer Inc;Pfizer;1017198;2
+5890;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Hospira-Reviews-E35009.htm;604;Hospira Inc;Hospira;1017802;2
+1621;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/L3Harris-Reviews-E2898734.htm;2685;Harris Corp;Harris;1020487;2
+5891;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Exelis-Reviews-E456996.htm;555;Exelis Inc;Exelis;1021042;2
+1490;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/NXP-Semiconductors-Reviews-E13528.htm;1633;NXP Semiconductors NV;NXP Semiconductors NV;1022675;2
+5895;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Freescale-Semiconductor-Reviews-E20881.htm;962;Freescale Semiconductor Ltd;Freescale Semiconductor;1023637;2
+1341;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/AbbVie-Reviews-E649837.htm;2900;AbbVie Inc;AbbVie;1026537;2
+5897;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Pharmacyclics-Reviews-E4525.htm;228;Pharmacyclics Inc;Pharmacyclics;1026765;2
+1596;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/HP-Inc-Reviews-E1093161.htm;6170;Hewlett Packard Co;Hewlett Packard;1032935;2
+5896;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Aruba-Networks-Reviews-E26809.htm;574;Aruba Networks Inc;Aruba Networks;1033509;2
+1338;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Mitel-Networks-Reviews-E13569.htm;680;Mitel Networks Corp;Mitel Networks;1034189;2
+6033;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Mavenir-Reviews-E269651.htm;655;Mavenir Systems Inc;Mavenir Systems;1034844;2
+1111;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Consolidated-Communications-Reviews-E35661.htm;161;Consolidated Communications Holdings Inc;Consolidated Communications;1035005;2
+5670;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/FairPoint-Communications-Reviews-E11367.htm;149;FairPoint Communications Inc;FairPoint Communications;1035154;2
+1343;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Microsemi-Reviews-E2592686.htm;51;Microsemi Corp;Microsemi;1035205;2
+5899;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Vitesse-Semiconductor-Reviews-E456.htm;41;Vitesse Semiconductor Corp;Vitesse Semiconductor;1035246;2
+1344;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Lexmark-International-Reviews-E2873.htm;1300;Lexmark International Inc;Lexmark International;1036546;2
+5900;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Kofax-Reviews-E25124.htm;120;Kofax Ltd;Kofax;1036666;2
+1533;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Intel-Corporation-Reviews-E1519.htm;20900;Intel Corp;Intel;1057566;2
+5916;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Altera-Reviews-E1112.htm;482;Altera Corp;Altera;1058048;2
+1345;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/UnitedHealth-Group-Reviews-E1991.htm;1400;UnitedHealth Group Inc;UnitedHealth Group;1059448;2
+5902;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Catamaran-Reviews-E21461.htm;257;Catamaran Corp;Catamaran;1059705;2
+1553;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Shell-Reviews-E5833.htm;9800;Shell PLC;Shell;1069505;2
+5971;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/BG-Group-Reviews-E10128.htm;274;BG Group PLC;BG Group;1069779;2
+1361;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/CVS-Health-Reviews-E437.htm;30500;CVS Health Corp;CVS Health;1100279;3
+5912;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Omnicare-Reviews-E496.htm;962;Omnicare Inc;Omnicare;1101241;3
+1568;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Charter-Communications-MA-Reviews-E6462452.htm;227;Charter Communications Inc;Charter Communications;1101468;3
+5913;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Time-Warner-Cable-Reviews-E4297719.htm;94;Time Warner Cable Inc;Time Warner Cable;1101562;3
+1417;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Marriott-International-Reviews-E7790.htm;13900;Marriott International Inc;Marriott International;1115462;3
+5983;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Starwood-Hotels-and-Resorts-Reviews-E335.htm;2100;Starwood Hotels & Resorts Worldwide Inc;Starwood Hotels and Resorts Worldwide;1117562;3
+1354;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Crestwood-Equity-Partners-Reviews-E42514.htm;50;Crestwood Equity Partners LP;Crestwood Equity Partners;1117612;3
+6075;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Crestwood-Equity-Partners-Reviews-E42514.htm;50;Crestwood Midstream Partners LP;Crestwood Midstream Partners;1117662;3
+1359;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Danaher-Reviews-E193.htm;596;Danaher Corp;Danaher;1118258;3
+6004;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Pall-Reviews-E974.htm;695;Pall Corp;Pall;1118953;3
+1364;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Fortinet-Reviews-E23128.htm;1700;Fortinet Inc;Fortinet;1120653;3
+5915;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Meru-Networks-Reviews-E32352.htm;47;Meru Networks Inc;Meru Networks;1120700;3
+1541;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Avago-Technologies-Reviews-E40386.htm;301;Avago Technologies Ltd;Avago Technologies;1121001;3
+6005;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Broadcom-Reviews-E6926.htm;3300;Broadcom Corp;Broadcom;1124301;3
+1366;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Opko-Health-Reviews-E5375.htm;55;OPKO Health Inc;OPKO Health;1124356;3
+6030;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Bio-Reference-Labs-Reviews-E4766.htm;594;Bio-Reference Laboratories Inc;Bio-Reference Laboratories;1124950;3
+1011;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Worldpay-Reviews-E6324289.htm;113;Vantiv Inc;Vantiv;1125063;3
+5421;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Worldpay-Reviews-E6324289.htm;111;Worldpay Group PLC;Worldpay Group;1125174;3
+1445;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Extra-Space-Storage-Reviews-E35227.htm;1700;Extra Space Storage Inc;Extra Space Storage;1126874;3
+6023;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/SmartStop-Self-Storage-Reviews-E717553.htm;44;SmartStop Self Storage Inc;SmartStop Self Storage;1126918;3
+1372;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Centene-Reviews-E13542.htm;3800;Centene Corp;Centene;1130718;3
+5920;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Health-Net-Reviews-E1233.htm;610;Health Net Inc;Health Net;1131328;3
+1378;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/St-Jude-Medical-Reviews-E1903.htm;735;St Jude Medical Inc;St Jude Medical;1132063;3
+5925;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Thoratec-Reviews-E6015.htm;57;Thoratec Corp;Thoratec;1132120;3
+1502;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/The-Home-Depot-Reviews-E655.htm;39800;Home Depot Inc;Home Depot;1171920;3
+5968;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Interline-Brands-Reviews-E5672.htm;196;Interline Brands Inc;Interline Brands;1172116;3
+1379;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Columbus-McKinnon-Reviews-E5683.htm;150;Columbus McKinnon Corp;Columbus McKinnon;1172266;3
+5926;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Magnetek-Reviews-E421.htm;43;Magnetek Inc;Magnetek;1172309;3
+1385;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Berkshire-Hathaway-Reviews-E805672.htm;693;Berkshire Hathaway Inc;Berkshire Hathaway;1173002;3
+5930;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Precision-Castparts-Reviews-E1798.htm;739;Precision Castparts Corp;Precision Castparts;1173741;3
+1387;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Envestnet-Reviews-E4983.htm;583;Envestnet Inc;Envestnet;1174324;3
+5932;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Yodlee-Reviews-E104111.htm;812;Yodlee Inc;Yodlee;1175136;3
+1390;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Truist-Financial-Corporation-Reviews-E3145458.htm;2300;BB&T Corp;BBandT;1177436;3
+5982;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/National-Penn-Bank-Reviews-E611058.htm;70;National Penn Bancshares Inc;National Penn Bancshares;1177506;3
+1392;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Schlumberger-Reviews-E588.htm;900;Schlumberger Ltd;Schlumberger;1178406;3
+6052;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Cameron-Reviews-E4403.htm;1100;Cameron International Corp;Cameron International;1179506;3
+1203;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Abbott-Reviews-E12.htm;6600;Abbott Laboratories;Abbott Laboratories;1186106;3
+5612;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/St-Jude-Medical-Reviews-E1903.htm;735;St Jude Medical Inc;St Jude Medical;1186841;3
+1429;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Constellation-Software-Reviews-E16671.htm;77;Constellation Software Inc;Constellation Software;1186918;3
+5969;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Market-Leader-Reviews-E37539.htm;126;Market Leader Inc;Market Leader;1187044;3
+1396;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/XPO-Reviews-E615153.htm;4983;XPO Logistics Inc;XPO Logistics;1192027;3
+6055;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Con-way-Freight-Reviews-E40989.htm;477;Con-way Inc;Con-way;1192504;3
+1531;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Nexstar-Media-Group-Reviews-E14983.htm;752;Nexstar Broadcasting Group Inc;Nexstar Broadcasting Group;1193256;3
+5996;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Media-General-Reviews-E938.htm;152;Media General Inc(WAS 650151);Media General(WAS 650151);1193408;3
+1199;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Lionsgate-Reviews-E8623.htm;288;Lions Gate Entertainment Corp;Lions Gate Entertainment;1193696;3
+5627;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Starz-Reviews-E13645.htm;307;Starz;Starz;1194003;3
+1404;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Western-Digital-Reviews-E1067.htm;300;Western Digital Corp;Western Digital;1194303;3
+5943;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/SanDisk-Reviews-E4479.htm;653;SanDisk Corp;SanDisk;1194956;3
+1527;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/onsemi-Reviews-E9708.htm;1065;ON Semiconductor Corp;ON Semiconductor;1196021;3
+5979;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Fairchild-Semiconductor-Reviews-E6693.htm;243;Fairchild Semiconductor International Inc;Fairchild Semiconductor International;1196264;3
+1402;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Microsemi-Reviews-E2592686.htm;51;Microsemi Corp;Microsemi;1196315;3
+6016;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/PMC-Sierra-Reviews-E1841.htm;202;PMC-Sierra Inc;PMC-Sierra;1196517;3
+1405;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Liberty-Global-Reviews-E38776.htm;386;Liberty Global PLC;Liberty Global;1196903;3
+5944;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Cable-and-Wireless-Communications-Reviews-E354541.htm;253;Cable & Wireless Communications PLC;Cable and Wireless Communications;1197156;3
+1516;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Snyder-s-Lance-Reviews-E1584.htm;309;Snyder's-Lance Inc;Snyder's-Lance;1197465;3
+5945;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Diamond-Foods-Reviews-E11977.htm;51;Diamond Foods Inc;Diamond Foods;1197516;3
+1407;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Duke-Energy-Reviews-E211.htm;1400;Duke Energy Corp;Duke Energy;1198916;3
+5973;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Piedmont-Natural-Gas-Reviews-E531.htm;57;Piedmont Natural Gas Co Inc;Piedmont Natural Gas Co;1198973;3
+1410;1,54E+11;1;1;1;1;1;https://www.glassdoor.co.uk/Reviews/Expedia-Reviews-E5605043.htm;59;Expedia Inc;Expedia;1199032;3
+5947;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/HomeAway-Reviews-E2842124.htm;45;HomeAway Inc;HomeAway;1199077;3
+1418;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Comtech-Telecommunications-Reviews-E2135.htm;103;Comtech Telecommunications Corp;Comtech Telecommunications;1199180;3
+5953;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/TeleCommunication-Systems-Reviews-E11927.htm;162;TeleCommunication Systems Inc;TeleCommunication Systems;1199342;3
+1647;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/DuPont-Reviews-E215.htm;2512;The Dow Chemical Co;The Dow Chemical;1201854;3
+6045;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/DuPont-Reviews-E215.htm;2500;EI du Pont de Nemours & Co {DuPont};EI du Pont de Nemours and Co. {DuPont};1204354;3
+1422;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/CalAmp-Reviews-E1219.htm;190;CalAmp Corp;CalAmp;1204544;3
+5960;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/LoJack-Reviews-E2445.htm;125;LoJack Corp;LoJack;1204669;3
+1423;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Global-Payments-Reviews-E13140.htm;818;Global Payments Inc;Global Payments;1205487;3
+5962;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Heartland-Payment-Systems-Reviews-E15462_P30.htm;964;Heartland Payment Systems Inc;Heartland Payment Systems;1206451;3
+1184;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Waste-Connections-Reviews-E7903.htm;594;Progressive Waste Solutions Ltd;Progressive Waste Solutions;1207045;3
+5696;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Waste-Connections-Reviews-E7903.htm;549;Waste Connections Inc;Waste Connections;1207594;3
+1027;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Microchip-Technology-Reviews-E2298.htm;1500;Microchip Technology Inc;Microchip Technology;1209094;3
+5591;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Atmel-Reviews-E1776.htm;220;Atmel Corp;Atmel;1209314;3
+1225;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/II-VI-Reviews-E1501.htm;177;II-VI Inc;II-VI;1209491;3
+5677;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/ANADIGICS-Reviews-E3068.htm;40;ANADIGICS Inc;ANADIGICS;1209531;3
+1117;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Brunswick-Reviews-E111.htm;252;Brunswick Corp;Brunswick;1209783;3
+5674;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Cybex-International-Reviews-E925.htm;48;CYBEX International Inc;CYBEX International;1209831;3
+1275;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Huntington-National-Bank-Reviews-E1496.htm;2173;Huntington Bancshares Inc;Huntington Bancshares;1212004;3
+5592;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/FirstMerit-Reviews-E1401.htm;124;FirstMerit Corp;FirstMerit;1212128;3
+1029;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Westlake-Chemical-Reviews-E15202.htm;180;Westlake Chemical Corp;Westlake Chemical;1212308;3
+5593;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Axiall-Reviews-E666402.htm;67;Axiall Corp;Axiall;1212375;3
+1202;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Abbott-Reviews-E12.htm;6600;Abbott Laboratories;Abbott Laboratories;1218975;3
+5594;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Alere-Reviews-E295450.htm;534;Alere Inc;Alere;1219509;3
+1033;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/MKS-Instruments-Reviews-E7469.htm;199;MKS Instruments Inc;MKS Instruments;1219708;3
+5733;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Newport-Reviews-E1696.htm;88;Newport Corp;Newport;1219796;3
+1035;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/CCL-Industries-Reviews-E7066.htm;184;CCL Industries Inc;CCL Industries;1219980;3
+5600;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Checkpoint-Systems-Reviews-E1247.htm;199;Checkpoint Systems Inc;Checkpoint Systems;1220179;3
+1250;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Alaska-Airlines-Reviews-E19.htm;1200;Alaska Air Group Inc;Alaska Air Group;1221379;3
+5604;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Virgin-America-Reviews-E35336.htm;337;Virgin America Inc;Virgin America;1221716;3
+1043;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Hanesbrands-Reviews-E13758.htm;834;Hanesbrands Inc;Hanesbrands;1222550;3
+5611;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Pacific-Brands-Reviews-E316994.htm;40;Pacific Brands Ltd;Pacific Brands;1222590;3
+1046;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/BCE-Reviews-E4001.htm;71;BCE Inc;BCE;1222661;3
+5613;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Manitoba-Telecom-Services-Reviews-E8008.htm;50;Manitoba Telecom Services Inc;Manitoba Telecom Services;1222711;3
+1047;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Oracle-Reviews-E1737.htm;42400;Oracle Corp;Oracle;1265111;3
+5614;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Opower-Reviews-E313448.htm;176;Opower Inc;Opower;1265287;3
+1080;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Pfizer-Reviews-E525.htm;6100;Pfizer Inc;Pfizer;1271387;3
+5634;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Medivation-Reviews-E40825.htm;57;Medivation Inc;Medivation;1271444;3
+1064;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Microsoft-Reviews-E1651.htm;35800;Microsoft Corp;Microsoft;1307244;3
+5621;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/LinkedIn-Reviews-E34865.htm;4927;LinkedIn Corp;LinkedIn;1312171;3
+1056;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Thermo-Fisher-Scientific-Reviews-E658.htm;6700;Thermo Fisher Scientific Inc;Thermo Fisher Scientific;1318871;3
+5702;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/FEI-Reviews-E4586.htm;100;FEI Co;FEI;1318971;3
+1227;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Colony-Capital-Reviews-E10038.htm;139;Colony Capital Inc;Colony Capital;1319110;3
+5713;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Colony-Capital-Reviews-E10038.htm;139;Colony Capital Inc;Colony Capital;1319249;3
+1252;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Couche-Tard-Reviews-E13736.htm;325;Alimentation Couche-Tard Inc;Alimentation Couche-Tard;1319574;3
+5680;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/CST-Brands-Reviews-E717969.htm;112;CST Brands Inc;CST Brands;1319686;3
+1220;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Envision-Healthcare-Reviews-E39449.htm;517;AmSurg Corp;AmSurg;1320203;3
+5704;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Envision-Healthcare-Reviews-E39449.htm;495;Envision Healthcare Holdings Inc;Envision Healthcare;1320698;3
+1183;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Revlon-Inc-Reviews-E5812.htm;579;Revlon Inc;Revlon;1321277;3
+5622;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Elizabeth-Arden-Reviews-E5707.htm;248;Elizabeth Arden Inc;Elizabeth Arden;1321525;3
+1067;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/OSI-Systems-Reviews-E6973.htm;114;OSI Systems Inc;OSI Systems;1321639;3
+5625;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/American-Science-and-Engineering-Reviews-E767.htm;50;American Science & Engineering Inc;American Science and Engineering;1321689;3
+1201;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Tesla-Reviews-E43129.htm;6478;Tesla Motors Inc;Tesla Motors;1328167;3
+5624;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/SolarCity-Reviews-E244963.htm;2300;SolarCity Corp;SolarCity;1330467;3
+1073;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Analog-Devices-Reviews-E49.htm;1600;Analog Devices Inc;Analog Devices;1332067;3
+5629;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Linear-Technology-Reviews-E1598.htm;139;Linear Technology Corp;Linear Technology;1332206;3
+1074;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Oracle-Reviews-E1737.htm;42400;Oracle Corp;Oracle;1374606;3
+5631;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/NetSuite-Reviews-E11153.htm;698;NetSuite Inc;NetSuite;1375304;3
+1076;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Vail-Resorts-Reviews-E6662.htm;200;Vail Resorts Inc;Vail Resorts;1375504;3
+5729;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Whistler-Blackcomb-Reviews-E472497.htm;145;Whistler Blackcomb Holdings Inc;Whistler Blackcomb;1375649;3
+1079;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/United-Bankshares-Reviews-E1987.htm;162;United Bankshares Inc;United Bankshares;1375811;3
+5716;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Cardinal-Financial-Company-Reviews-E822911.htm;519;Cardinal Financial Corp;Cardinal Financial;1376330;3
+1083;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Danaher-Reviews-E193.htm;596;Danaher Corp;Danaher;1376926;3
+5637;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Cepheid-Reviews-E11831.htm;495;Cepheid Inc;Cepheid;1377421;3
+1266;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Xperi-Reviews-E1563777.htm;107;Tessera Technologies Inc;Tessera Technologies;1377528;3
+5644;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/DTS-Reviews-E11499.htm;83;DTS Inc;DTS;1377611;3
+1096;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/AT-and-T-Reviews-E613.htm;33600;AT&T Inc;ATandT;1411211;3
+5722;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/WarnerMedia-Reviews-E12777.htm;2400;Time Warner Inc;Time Warner;1413611;3
+1100;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Broadcom-Reviews-E6926.htm;3300;Broadcom Ltd;Broadcom;1416911;3
+5692;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Brocade-Reviews-E9183.htm;965;Brocade Communications Systems Inc;Brocade Communications Systems;1417876;3
+1269;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Insight-Reviews-E3823.htm;913;Insight Enterprises Inc;Insight Enterprises;1418789;3
+5659;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Datalink-Reviews-E8361.htm;83;Datalink Corp;Datalink;1418872;3
+413;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Salesforce-Reviews-E11159.htm;13189;Salesforce.com Inc;Salesforce.com;1432061;3
+4906;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Tableau-Software-Reviews-E38125.htm;100;Tableau Software Inc;Tableau Software;1432161;3
+1104;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Adobe-systems-Reviews-EI_IE1090.0,5_KO6,13.htm;8300;Adobe Systems Inc;Adobe Systems;1440461;3
+5660;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/TubeMogul-Reviews-E250150.htm;181;TubeMogul Inc;TubeMogul;1440642;3
+1119;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Gildan-Activewear-Reviews-E8383.htm;221;Gildan Activewear Inc;Gildan Activewear;1440863;3
+5712;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/American-Apparel-Reviews-E18373.htm;1100;American Apparel LLC;American Apparel;1441963;3
+1205;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/WellCare-Reviews-E34976.htm;1200;WellCare Health Plans Inc;WellCare Health Plans;1443163;3
+5663;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Universal-American-Reviews-E2002.htm;166;Universal American Corp;Universal American;1443329;3
+1247;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Sunoco-logistics-Reviews-EI_IE629.0,6_KO7,16.htm;464;Sunoco Logistics Partners LP;Sunoco Logistics Partners;1443793;3
+5718;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Energy-Transfer-Reviews-E6125.htm;439;Energy Transfer Partners LP;Energy Transfer Partners;1444232;3
+1109;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Parker-Hannifin-Reviews-E517.htm;2300;Parker Hannifin Corp;Parker Hannifin;1446532;3
+5668;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/CLARCOR-Reviews-E1206.htm;50;CLARCOR Inc;CLARCOR;1446582;3
+1120;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Allergan-Reviews-E27.htm;1500;Allergan Plc;Allergan;1448082;3
+5676;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/LifeCell-Reviews-E4930.htm;87;LifeCell Corp;LifeCell;1448169;3
+763;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Keysight-Technologies-Reviews-E877317.htm;1200;Keysight Technologies Inc;Keysight Technologies;1449369;3
+5324;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Ixia-Reviews-E9341.htm;281;IXIA;IXIA;1449650;3
+761;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/AmTrust-Financial-Reviews-E43248.htm;827;AltaGas Ltd;AltaGas;1450477;3
+5322;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/WGL-Reviews-E268948.htm;76;WGL Holdings Inc;WGL;1450553;3
+762;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Tesco-Reviews-E10250.htm;22000;Tesco PLC;Tesco;1472553;3
+5323;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Booker-Group-Reviews-E10121.htm;255;Booker Group PLC;Booker Group;1472808;3
+764;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/ONEOK-Reviews-E490.htm;184;ONEOK Inc;ONEOK;1472992;3
+5455;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/ONEOK-Reviews-E490.htm;184;ONEOK Partners LP;ONEOK Partners;1473176;3
+919;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Reckitt-Reviews-E3600.htm;3500;Reckitt Benckiser Group PLC;Reckitt Benckiser Group;1476676;3
+5397;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Mead-Johnson-Reviews-E13969.htm;356;Mead Johnson Nutrition Co;Mead Johnson Nutrition;1477032;3
+766;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Allergan-Reviews-E27.htm;1500;Allergan Plc;Allergan;1478532;3
+5325;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/ZELTIQ-Aesthetics-Reviews-E800145.htm;71;ZELTIQ Aesthetics Inc;ZELTIQ Aesthetics;1478603;3
+770;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Restaurant-Brands-International-Reviews-E1138188.htm;449;Restaurant Brands International Inc;Restaurant Brands International;1479052;3
+5402;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Popeyes-Reviews-E14706.htm;2300;Popeyes Louisiana Kitchen Inc;Popeyes Louisiana Kitchen;1481352;3
+768;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Hologic-Reviews-E1568.htm;878;Hologic Inc;Hologic;1482230;3
+5327;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Cynosure-Reviews-E39669.htm;135;Cynosure Inc;Cynosure;1482365;3
+941;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Hewlett-Packard-Enterprise-HPE-Reviews-E1093046.htm;14400;Hewlett Packard Enterprise Co;Hewlett Packard Enterprise;1496765;3
+5330;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Nimble-Storage-Reviews-E361604.htm;167;Nimble Storage Inc;Nimble Storage;1496932;3
+775;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/MaxLinear-Reviews-E354387.htm;183;MaxLinear Inc;MaxLinear;1497115;3
+5333;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Exar-Reviews-E1380.htm;46;EXAR Corp;EXAR;1497161;3
+927;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Knight-Transportation-Reviews-E3705.htm;543;Knight Transportation Inc;Knight Transportation;1497704;3
+5408;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Swift-Transportation-Reviews-E2065.htm;1300;Swift Transportation Co;Swift Transportation;1499004;3
+781;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Tyson-Foods-Reviews-E1975.htm;2100;Tyson Foods Inc;Tyson Foods;1501104;3
+5337;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/AdvancePierre-Foods-Reviews-E2022.htm;104;AdvancePierre Foods Holdings Inc;AdvancePierre Foods;1501208;3
+897;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Amazon-Reviews-E6036.htm;135311;Amazon.com Inc;Amazon.com;1636519;4
+5348;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Whole-Foods-Market-Reviews-E422.htm;15500;Whole Foods Market Inc;Whole Foods Market;1652019;4
+920;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Intact-Reviews-E329903.htm;1400;Intact Financial Corp;Intact Financial;1653419;4
+5468;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Intact-Insurance-Specialty-Solutions-Reviews-E17550.htm;176;OneBeacon Insurance Group Ltd;OneBeacon Insurance Group;1653595;4
+949;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/First-Horizon-Reviews-E317187.htm;600;First Horizon National Corp;First Horizon National;1654195;4
+5440;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Capital-Bank-Reviews-E7583.htm;124;Capital Bank Financial Corp;Capital Bank Financial;1654319;4
+937;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Syneos-Health-Reviews-E1930341.htm;2055;INC Research Holdings Inc;INC Research;1656374;4
+5386;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/inVentiv-Health-Reviews-E9919.htm;749;inVentiv Health Inc;inVentiv Health;1657123;4
+831;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Vistra-Energy-Reviews-E1734879.htm;99;Vistra Energy Corp;Vistra Energy;1657222;4
+5373;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Dynegy-Reviews-E2914.htm;102;Dynegy Inc;Dynegy;1657324;4
+931;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Valaris-Reviews-E3018443.htm;124;Ensco PLC;Ensco;1657448;4
+5346;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Atwood-Oceanics-Reviews-E1153.htm;47;Atwood Oceanics Inc;Atwood Oceanics;1657495;4
+542;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Conagra-Brands-Reviews-E172.htm;1500;Conagra Brands Inc;Conagra Brands;1658995;4
+5090;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Pinnacle-Foods-Reviews-E6882.htm;294;Pinnacle Foods Inc;Pinnacle Foods;1659289;4
+982;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/EQT-Reviews-E233.htm;169;EQT Corp;EQT;1659458;4
+5350;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Rice-Energy-Reviews-E920814.htm;54;Rice Energy Inc;Rice Energy;1659512;4
+799;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Markel-Reviews-E1618.htm;317;Markel Corp;Markel;1659829;4
+5414;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/State-National-Co-Reviews-E363327.htm;69;State National Cos Inc;State National Cos;1659898;4
+801;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Mitel-Networks-Reviews-E13569.htm;680;Mitel Networks Corp;Mitel Networks;1660578;4
+5355;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/ShoreTel-Reviews-E9479.htm;271;ShoreTel Inc;ShoreTel;1660849;4
+814;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Raytheon-Technologies-Reviews-E561.htm;6640;United Technologies Corp;United Technologies;1667489;4
+5362;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Rockwell-Collins-Reviews-E13435.htm;1700;Rockwell Collins Inc;Rockwell Collins;1669189;4
+808;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/United-Rentals-Reviews-E7395.htm;1400;United Rentals Inc;United Rentals;1670589;4
+5453;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Neff-Rental-Reviews-E324909.htm;123;Neff Corp;Neff;1670712;4
+812;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Gilead-Sciences-Reviews-E2016.htm;1400;Gilead Sciences Inc;Gilead Sciences;1672112;4
+5360;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Kite-Pharma-Reviews-E1301677.htm;267;Kite Pharma Inc;Kite Pharma;1672379;4
+815;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/RhythmOne-Reviews-E985610.htm;187;RhythmOne PLC;RhythmOne;1672566;4
+5363;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/YuMe-Reviews-E341233.htm;137;YuMe Inc;YuMe;1672703;4
+818;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Northrop-Grumman-Reviews-E488.htm;8300;Northrop Grumman Corp;Northrop Grumman;1681003;4
+5365;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Orbital-ATK-Reviews-E957249.htm;294;Orbital ATK Inc;Orbital ATK;1681297;4
+992;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/METRO-Reviews-E7046.htm;1219;Metro Inc;Metro;1682516;4
+5405;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/The-Jean-Coutu-Group-pjc-Inc-Reviews-E8720.htm;289;The Jean Coutu Group(PJC)Inc;The Jean Coutu Group(PJC)Inc;1682805;4
+840;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/CVS-Health-Reviews-E437.htm;30500;CVS Health Corp;CVS Health;1713305;4
+5377;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Aetna-Reviews-E16.htm;400;Aetna Inc;Aetna;1713705;4
+905;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Walt-Disney-Company-Reviews-E717.htm;9200;Walt Disney Co;Walt Disney;1722905;4
+5435;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Fox-Networks-Group-Reviews-E1162348.htm;161;21st Century Fox Inc;21st Century Fox;1723066;4
+837;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/LHC-Group-Reviews-E37879.htm;1400;LHC Group Inc;LHC Group;1724466;4
+5375;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Almost-Family-Reviews-E4784.htm;296;Almost Family Inc;Almost Family;1724762;4
+844;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Oracle-Reviews-E1737.htm;42400;Oracle Corp;Oracle;1767162;4
+5381;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Aconex-Reviews-E324700.htm;111;Aconex Ltd;Aconex;1767273;4
+906;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Campbell-Soup-Company-Reviews-E129.htm;100;Campbell Soup Co;Campbell Soup;1767373;4
+5398;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Snyder-s-Lance-Reviews-E1584.htm;297;Snyder's-Lance Inc;Snyder's-Lance;1767670;4
+495;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Archrock-Reviews-E1176896.htm;71;Archrock Inc;Archrock;1767741;4
+5184;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Archrock-Reviews-E1176896.htm;71;Archrock Partners LP;Archrock Partners;1767812;4
+496;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Dominion-Energy-Reviews-E204.htm;675;Dominion Energy Inc;Dominion Energy;1768487;4
+5141;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/SCANA-Reviews-E577.htm;147;SCANA Corp;SCANA;1768634;4
+501;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Celgene-Reviews-E1235.htm;446;Celgene Corp;Celgene;1769080;4
+5060;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Juno-Therapeutics-Reviews-E927288.htm;59;Juno Therapeutics Inc;Juno Therapeutics;1769139;4
+506;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Motorola-Solutions-Reviews-E427189.htm;1100;Motorola Solutions Inc;Motorola Solutions;1770239;4
+5063;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Avigilon-Reviews-E478228.htm;237;Avigilon Corp;Avigilon;1770476;4
+509;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Granite-Construction-Reviews-E1779.htm;409;Granite Construction Inc;Granite Construction;1770885;4
+5065;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Layne-Christensen-Reviews-E2240.htm;88;Layne Christensen Co;Layne Christensen;1770973;4
+651;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/LyondellBasell-Reviews-E15015.htm;887;LyondellBasell Industries NV;LyondellBasell Industries NV;1771860;4
+5066;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/A-Schulman-Reviews-E1072.htm;104;A Schulman Inc;A Schulman;1771964;4
+516;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Microchip-Technology-Reviews-E2298.htm;1500;Microchip Technology Inc;Microchip Technology;1773464;4
+5069;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Microsemi-Reviews-E2592686.htm;51;Microsemi Corp;Microsemi;1773515;4
+514;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Comcast-Reviews-E1280.htm;13400;Comcast Corp;Comcast;1786915;4
+5215;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Sky-Reviews-E3903.htm;3827;Sky PLC;Sky;1790742;4
+515;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Ocwen-Financial-Reviews-E5986.htm;1400;Ocwen Financial Corp;Ocwen Financial;1792142;4
+5217;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/PHH-Mortgage-Reviews-E17798.htm;556;PHH Corp;PHH;1792698;4
+517;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Cigna-Reviews-E119.htm;4500;Cigna Corp;Cigna;1797198;4
+5162;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Express-Scripts-Reviews-E2212.htm;3400;Express Scripts Holding Co;Express Scripts Holding;1800598;4
+635;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Salesforce-Reviews-E11159.htm;13189;Salesforce.com Inc;Salesforce.com;1813787;4
+5073;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/MuleSoft-Reviews-E341641.htm;470;MuleSoft Inc;MuleSoft;1814257;4
+520;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/JD-Sports-Fashion-Reviews-E13180.htm;2400;JD Sports Fashion PLC;JD Sports Fashion;1816657;4
+5074;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Finish-Line-Reviews-E2214.htm;1900;Finish Line Inc;Finish Line;1818557;4
+637;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Tallgrass-Energy-Reviews-E745492.htm;58;Tallgrass Energy GP LP;Tallgrass Energy GP;1818615;4
+5167;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Tallgrass-Energy-Reviews-E745492.htm;58;Tallgrass Energy Partners LP;Tallgrass Energy Partners;1818673;4
+525;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/CenterPoint-Energy-Reviews-E338.htm;575;CenterPoint Energy Inc;CenterPoint Energy;1819248;4
+5078;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Vectren-Reviews-E11808.htm;71;Vectren Corp;Vectren;1819319;4
+700;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/First-Interstate-Reviews-E17174.htm;128;First Interstate BancSystem Inc;First Interstate BancSystem;1819447;4
+5154;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Northwest-Bank-Reviews-E333433.htm;191;Northwest Bancorp Inc;Northwest Bancorp;1819638;4
+532;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Aurora-Cannabis-Reviews-E1634016.htm;204;Aurora Cannabis Inc;Aurora Cannabis;1819842;4
+5084;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/MedReleaf-Reviews-E1563992.htm;51;MedReleaf Corp;MedReleaf;1819893;4
+533;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Zoetis-Reviews-E680848.htm;781;Zoetis Inc;Zoetis;1820674;4
+5085;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Abaxis-Reviews-E1340.htm;62;Abaxis Inc;Abaxis;1820736;4
+536;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Enbridge-Reviews-E7330.htm;841;Enbridge Inc;Enbridge;1821577;4
+5195;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Enbridge-Reviews-E7330.htm;841;Enbridge Energy Management LLC;Enbridge Energy Management;1822418;4
+535;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Enbridge-Reviews-E7330.htm;841;Enbridge Inc;Enbridge;1823259;4
+5192;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Enbridge-Reviews-E7330.htm;1100;Enbridge Energy Partners LP;Enbridge Energy Partners;1824359;4
+543;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/SYNNEX-Reviews-E12131.htm;515;SYNNEX Corp;SYNNEX;1824874;4
+5091;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Convergys-Reviews-E8348.htm;5500;Convergys Corp;Convergys;1830374;4
+549;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Tidewater-Reviews-E662.htm;55;Tidewater Inc;Tidewater;1830429;4
+5093;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/GulfMark-Offshore-Reviews-E7273.htm;40;GulfMark Offshore Inc;GulfMark Offshore;1830469;4
+588;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Cornerstone-Building-Brands-Reviews-E2579866.htm;217;NCI Building Systems Inc;NCI Building Systems;1830686;4
+5151;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Ply-Gem-Reviews-E983.htm;225;Ply Gem Holdings Inc;Ply Gem;1830911;4
+631;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Phillips-Edison-and-Company-Reviews-E21376.htm;71;Phillips Edison & Co Inc;Phillips Edison and Co.;1830982;4
+5205;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Phillips-Edison-and-Company-Reviews-E21376.htm;71;Phillips Edison Grocery Center REIT II Inc;Phillips Edison Grocery Center REIT II;1831053;4
+551;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/United-Natural-Foods-Reviews-E6334.htm;1700;United Natural Foods Inc;United Natural Foods;1832753;4
+5094;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/SuperValu-Reviews-E5004720.htm;54;SuperValu Inc;SuperValu;1832807;4
+646;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Energy-Transfer-Reviews-E6125.htm;439;Energy Transfer Equity LP;Energy Transfer Equity;1833246;4
+5166;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Sunoco-logistics-Reviews-EI_IE629.0,6_KO7,16.htm;464;Energy Transfer Partners LP;Energy Transfer Partners;1833710;4
+553;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/WSFS-Financial-Reviews-E1910.htm;157;WSFS Financial Corp;WSFS Financial;1833867;4
+5130;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Beneficial-Bank-Reviews-E27797.htm;89;Beneficial Bancorp Inc;Beneficial Bancorp;1833956;4
+657;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Univar-Solutions-Reviews-E14183.htm;975;Univar Inc;Univar;1834931;4
+5100;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Nexeo-Solutions-Reviews-E419397.htm;276;Nexeo Solutions Inc;Nexeo Solutions;1835207;4
+563;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Dominion-Energy-Reviews-E204.htm;675;Dominion Energy Inc;Dominion Energy;1835882;4
+5194;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Dominion-Energy-Reviews-E204.htm;558;Dominion Energy Midstream Partners LP;Dominion Energy Midstream Partners;1836440;4
+564;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/SiriusXM-Reviews-E5128.htm;710;Sirius XM Holdings Inc;Sirius XM;1837150;4
+5176;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Pandora-Media-LLC-Reviews-E262334.htm;456;Pandora Media Inc;Pandora Media;1837606;4
+566;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Cloudera-Reviews-E360671.htm;738;Cloudera Inc;Cloudera;1838344;4
+5102;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Hortonworks-Reviews-E489054.htm;290;Hortonworks Inc;Hortonworks;1838634;4
+567;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Willdan-Group-Reviews-E26605.htm;110;Willdan Group Inc;Willdan Group;1838744;4
+5103;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Lime-Energy-Reviews-E13027.htm;81;Lime Energy Co;Lime Energy;1838825;4
+715;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/L3Harris-Reviews-E2898734.htm;2685;Harris Corp;Harris;1841510;4
+5174;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/L-3-Wescam-Reviews-E310928.htm;78;L3 Technologies Inc;L3 Technologies;1841588;4
+569;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Twilio-Reviews-E410790.htm;854;Twilio Inc;Twilio;1842442;4
+5106;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/SendGrid-Reviews-E466121.htm;115;SendGrid Inc;SendGrid;1842557;4
+571;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/EnLink-Midstream-Reviews-E824488.htm;101;Enlink Midstream LLC;Enlink Midstream;1842658;4
+5161;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/EnLink-Midstream-Reviews-E824488.htm;101;EnLink Midstream Partners LP;EnLink Midstream Partners;1842759;4
+574;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/MKS-Instruments-Reviews-E7469.htm;199;MKS Instruments Inc;MKS Instruments;1842958;4
+5110;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Electro-Scientific-Industries-Reviews-E1365.htm;54;Electro Scientific Industries Inc;Electro Scientific Industries;1843012;4
+681;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/II-VI-Reviews-E1501.htm;177;II-VI Inc;II-VI;1843189;4
+5127;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Finisar-Reviews-E9446.htm;227;Finisar Corp;Finisar;1843416;4
+582;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Nexstar-Media-Group-Reviews-E14983.htm;752;Nexstar Media Group Inc;Nexstar Media Group;1844168;4
+5114;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Tribune-Media-Reviews-E677.htm;369;Tribune Media Co;Tribune Media;1844537;4
+323;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Bristol-Myers-Squibb-Reviews-E107.htm;3068;Bristol-Myers Squibb Co;Bristol-Myers Squibb;1847605;4
+4884;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Celgene-Reviews-E1235.htm;446;Celgene Corp;Celgene;1848051;4
+421;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Newmont-Reviews-E479.htm;390;Newmont Mining Corp;Newmont Mining;1848441;4
+4887;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Goldcorp-Reviews-E5893.htm;75;Goldcorp Inc;Goldcorp;1848516;4
+453;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/TCF-Reviews-E246807.htm;1200;Chemical Financial Corp;Chemical Financial;1849716;4
+4999;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/TCF-Reviews-E246807.htm;1200;TCF Financial Corp;TCF Financial;1850916;4
+327;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Tesla-Reviews-E43129.htm;6100;Tesla Inc;Tesla;1857016;4
+4889;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Maxwell-Technologies-Reviews-E1625.htm;54;Maxwell Technologies Inc;Maxwell Technologies;1857070;4
+1;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Centene-Reviews-E13542.htm;3800;Centene Corp;Centene;1860870;4
+4563;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Magellan-Health-Reviews-E2201.htm;1100;Magellan Health Inc;Magellan Health;1861970;4
+445;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/FIS-Reviews-E313114.htm;8857;Fidelity National Information Services Inc;Fidelity National Information Services;1870827;4
+4895;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Worldpay-Reviews-E6324289.htm;97;Worldpay Inc;Worldpay;1870924;4
+435;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Jones-Lang-LaSalle-SE-Reviews-E3178716.htm;66;Jones Lang LaSalle Inc;Jones Lang LaSalle;1870990;4
+4959;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/HFF-Reviews-E16635.htm;100;HFF Inc;HFF;1871090;4
+335;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/JD-Sports-Fashion-Reviews-E13180.htm;2400;JD Sports Fashion PLC;JD Sports Fashion;1873490;4
+4894;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Footasylum-Reviews-E813431.htm;263;Footasylum PLC;Footasylum;1873753;4
+338;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Enghouse-Systems-Reviews-E15492.htm;52;Enghouse Systems Ltd;Enghouse Systems;1873805;4
+4948;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Espial-Reviews-E15000.htm;40;Espial Group Inc;Espial Group;1873845;4
+339;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Centene-Reviews-E13542.htm;3800;Centene Corp;Centene;1877645;4
+4957;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/WellCare-Reviews-E34976.htm;1200;WellCare Health Plans Inc;WellCare Health Plans;1878845;4
+427;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/onsemi-Reviews-E9708.htm;1065;ON Semiconductor Corp;ON Semiconductor;1879910;4
+4897;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Quantenna-Communications-Reviews-E228349.htm;95;Quantenna Communications Inc;Quantenna Communications;1880005;4
+342;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Occidental-Petroleum-Reviews-E491.htm;777;Occidental Petroleum Corp;Occidental Petroleum;1880782;4
+4899;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Anadarko-Petroleum-Reviews-E48.htm;368;Anadarko Petroleum Corp;Anadarko Petroleum;1881150;4
+439;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Jacobs-Reviews-E913.htm;5421;Jacobs Engineering Group Inc;Jacobs Engineering Group;1886571;4
+5004;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/KeyW-Reviews-E354608.htm;121;The KEYW Holding Corp;The KEYW Holding;1886692;4
+464;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Overview/Working-at-Mogo-Canada-EI_IE986674.11,22.htm;126;Difference Capital Financial Inc;Difference Capital Financial;1886818;4
+4980;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Mogo-Canada-Reviews-E986674.htm;128;Mogo Finance Technology Inc;Mogo Finance Technology;1886946;4
+438;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Hewlett-Packard-Enterprise-HPE-Reviews-E1093046.htm;14400;Hewlett Packard Enterprise Co;Hewlett Packard Enterprise;1901346;4
+4961;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Cray-Reviews-E4520.htm;127;Cray Inc;Cray;1901473;4
+347;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Global-Payments-Reviews-E13140.htm;818;Global Payments Inc;Global Payments;1902291;4
+4968;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/TSYS-Total-System-Services-Reviews-E671.htm;1600;Total System Services Inc;Total System Services;1903891;4
+348;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Raytheon-Technologies-Reviews-E561.htm;6640;United Technologies Corp;United Technologies;1910531;4
+4972;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Raytheon-Technologies-Reviews-E561.htm;6644;Raytheon Co;Raytheon;1917175;4
+430;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Onto-Innovation-Reviews-E3107769.htm;83;Nanometrics Inc;Nanometrics;1917258;4
+4979;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Rudolph-Technologies-Reviews-E9815.htm;52;Rudolph Technologies Inc;Rudolph Technologies;1917310;4
+352;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/AbbVie-Reviews-E649837.htm;2900;AbbVie Inc;AbbVie;1920210;4
+4910;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Allergan-Reviews-E27.htm;1500;Allergan PLC;Allergan;1921710;4
+454;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Extreme-Networks-Reviews-E8799.htm;873;Extreme Networks Inc;Extreme Networks;1922583;4
+4912;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Aerohive-Networks-Reviews-E316581.htm;155;Aerohive Networks Inc;Aerohive Networks;1922738;4
+356;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Synthomer-Reviews-E446709.htm;98;Synthomer PLC;Synthomer;1922836;4
+4914;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/OMNOVA-Solutions-Reviews-E9578.htm;96;OMNOVA Solutions Inc;OMNOVA Solutions;1922932;4
+361;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Exact-Sciences-Reviews-E12829.htm;568;Exact Sciences Corp;Exact Sciences;1923500;4
+4919;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Genomic-Health-Reviews-E38263.htm;176;Genomic Health Inc;Genomic Health;1923676;4
+475;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Fox-Reviews-E2938629.htm;107;Fox Corp;Fox;1923783;4
+4983;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Credible-Reviews-E1069434.htm;90;Credible Labs Inc;Credible Labs;1923873;4
+368;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/VMware-Reviews-E12830.htm;8700;VMware Inc;VMware;1932573;4
+4951;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Pivotal-Reviews-E687287.htm;459;Pivotal Software Inc;Pivotal Software;1933032;4
+366;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Hasbro-Reviews-E890.htm;739;Hasbro Inc;Hasbro;1933771;4
+4922;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Entertainment-One-Reviews-E40211.htm;243;Entertainment One Ltd;Entertainment One;1934014;4
+367;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/VMware-Reviews-E12830.htm;8700;VMware Inc;VMware;1942714;4
+4923;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Carbon-Black-Reviews-E371798.htm;163;Carbon Black Inc;Carbon Black;1942877;4
+444;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/First-Horizon-Reviews-E317187.htm;600;First Horizon National Corp;First Horizon National;1943477;4
+4929;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/IBERIABANK-Reviews-E4153.htm;226;IBERIABANK Corp;IBERIABANK;1943703;4
+414;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Taylor-Morrison-Reviews-E37887.htm;728;Taylor Morrison Home Corp;Taylor Morrison Home;1944431;4
+4930;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/William-Lyon-Homes-Reviews-E258.htm;50;William Lyon Homes;William Lyon Homes;1944481;4
+378;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/OpenText-Reviews-E5694.htm;3200;OpenText Corp;OpenText;1947681;4
+4931;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Carbonite-Reviews-E304976.htm;319;Carbonite Inc;Carbonite;1948000;4
+432;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Xperi-Reviews-E1563777.htm;107;Xperi Corp;Xperi;1948107;4
+4935;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/TiVo-Reviews-E9368.htm;506;TiVo Corp;TiVo;1948613;4
+385;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/WESCO-International-Reviews-E7599.htm;684;Wesco International Inc;Wesco International;1949297;4
+4939;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Anixter-International-Reviews-E360.htm;732;Anixter International Inc;Anixter International;1950029;4
+274;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Primo-Water-Reviews-E301463.htm;94;Cott Corp;Cott;1950123;4
+4810;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Primo-Water-Corporation-Reviews-E301463.htm;93;Primo Water Corp;Primo Water;1950216;4
+180;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/IG-Design-Group-Reviews-E12499.htm;70;IG Design Group PLC;IG Design Group;1950286;4
+4742;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/CSS-Industries-Reviews-E800.htm;97;CSS Industries Inc;CSS Industries;1950383;4
+275;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/South-State-Reviews-E847662.htm;208;South State Corp;South State;1950591;4
+4796;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/CenterState-Banks-Reviews-E13243.htm;74;CenterState Bank Corp;CenterState Bank;1950665;4
+182;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/BorgWarner-Reviews-E1652.htm;998;BorgWarner Inc;BorgWarner;1951663;4
+4744;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Delphi-Technologies-Reviews-E1946014.htm;435;Delphi Technologies PLC;Delphi Technologies;1952098;4
+201;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Iress-Reviews-E312549.htm;455;IRESS Ltd;IRESS;1952553;4
+4756;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/OneVue-Reviews-E828571.htm;108;OneVue Holdings Ltd;OneVue;1952661;4
+207;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Sunrun-Reviews-E384876.htm;1400;Sunrun Inc;Sunrun;1954061;4
+4759;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Vivint-Solar-Reviews-E696586.htm;884;Vivint Solar Inc;Vivint Solar;1954945;4
+210;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Analog-Devices-Reviews-E49.htm;1600;Analog Devices Inc;Analog Devices;1956545;4
+4799;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Maxim-Integrated-Reviews-E1624.htm;1103;Maxim Integrated Products Inc;Maxim Integrated Products;1957648;4
+211;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Chevron-Reviews-E13524.htm;4300;Chevron Corp;Chevron;1961948;4
+4762;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Noble-Energy-Reviews-E482.htm;372;Noble Energy Inc;Noble Energy;1962320;4
+270;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Enova-Reviews-E298072.htm;604;Enova International Inc;Enova International;1962924;4
+4806;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/OnDeck-Reviews-E445023.htm;338;On Deck Capital Inc;On Deck Capital;1963262;4
+227;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Teladoc-Health-Reviews-E305875.htm;453;Teladoc Health Inc;Teladoc Health;1963715;4
+4783;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Livongo-Health-Reviews-E1175834.htm;125;Livongo Health Inc;Livongo Health;1963840;4
+213;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Johnson-and-Johnson-Reviews-E364.htm;10500;Johnson & Johnson;Johnson and Johnson;1974340;4
+4767;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Momenta-Pharmaceuticals-Reviews-E33102.htm;52;Momenta Pharmaceuticals Inc;Momenta Pharmaceuticals;1974392;4
+226;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Ziff-Davis-Reviews-E6132150.htm;57;J2 Global Inc;J2 Global;1974449;4
+4781;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/RetailMeNot-Reviews-E407120.htm;216;RetailMeNot Inc;RetailMeNot;1974665;4
+219;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/AMD-Reviews-E15.htm;3061;Advanced Micro Devices Inc;Advanced Micro Devices;1977726;4
+4773;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Xilinx-Reviews-E2063.htm;1100;Xilinx Inc;Xilinx;1978826;4
+229;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Pioneer-Natural-Resources-Reviews-E3571.htm;370;Pioneer Natural Resources Co;Pioneer Natural Resources;1979196;4
+4787;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Parsley-Energy-Reviews-E1026728.htm;55;Parsley Energy Inc;Parsley Energy;1979251;4
+266;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Coca-Cola-Europacific-Partners-Reviews-E1375664.htm;647;Coca-Cola European Partners PLC;Coca-Cola European Partners;1979898;4
+4772;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Coca-Cola-Amatil-Reviews-E10079.htm;365;Coca-Cola Amatil Ltd;Coca-Cola Amatil;1980263;4
+262;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Cenovus-Reviews-E354451.htm;524;Cenovus Energy Inc;Cenovus Energy;1980787;4
+4849;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Husky-Energy-Reviews-E7825.htm;611;Husky Energy Inc;Husky Energy;1981398;4
+261;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/The-Home-Depot-Reviews-E655.htm;39800;Home Depot Inc;Home Depot;2021198;4
+4791;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/HD-Supply-Reviews-E19909.htm;1300;HD Supply Holdings Inc;HD Supply;2022498;4
+299;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Future-Reviews-E350743.htm;434;Future PLC;Future;2022932;4
+4774;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/GoCo-Group-Reviews-E802120.htm;67;GoCo Group PLC;GoCo Group;2022999;4
+257;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Salesforce-Reviews-E11159.htm;13189;Salesforce.com Inc;Salesforce.com;2036188;4
+4808;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Slack-Reviews-E950758.htm;758;Slack Technologies Inc;Slack Technologies;2036946;4
+223;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Amphenol-Reviews-E1967.htm;450;Amphenol Corp;Amphenol;2037396;4
+4777;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/MTS-Systems-Reviews-E1608.htm;287;MTS Systems Corp;MTS Systems;2037683;4
+224;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/AstraZeneca-Reviews-E9214.htm;5300;AstraZeneca PLC;AstraZeneca;2042983;4
+4778;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Alexion-Pharmaceuticals-Reviews-E6092.htm;694;Alexion Pharmaceuticals Inc;Alexion Pharmaceuticals;2043677;4
+305;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Huntington-National-Bank-Reviews-E1496.htm;2173;Huntington Bancshares Inc;Huntington Bancshares;2045850;4
+4840;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/TCF-Reviews-E246807.htm;1200;TCF Financial Corp;TCF Financial;2047050;4
+236;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Diamondback-Energy-Reviews-E42426.htm;41;Diamondback Energy Inc;Diamondback Energy;2047091;4
+4793;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/QEP-Resources-Reviews-E24542.htm;83;QEP Resources Inc;QEP Resources;2047174;4
+237;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Viasat-Reviews-E5500.htm;1100;ViaSat Inc;ViaSat;2048274;4
+4794;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/RigNet-Reviews-E142330.htm;107;RigNet Inc;RigNet;2048381;4
+3;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/NCR-Reviews-E4212.htm;5800;NCR Corp;NCR;2054181;4
+4565;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Cardtronics-Reviews-E15467.htm;229;Cardtronics plc;Cardtronics;2054410;4
+113;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/II-VI-Reviews-E1501.htm;177;II-VI Inc;II-VI;2054587;4
+4628;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Coherent-Reviews-E1274.htm;364;Coherent Inc;Coherent;2054951;4
+130;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Western-Alliance-Bank-Reviews-E38157.htm;179;Western Alliance Bancorp;Western Alliance Bancorp;2055130;4
+4687;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Amerihome-Mortgage-Reviews-E17585.htm;141;AmeriHome Inc;AmeriHome;2055271;4
+6;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Energy-Transfer-Reviews-E6125.htm;439;Energy Transfer LP;Energy Transfer;2055710;4
+4568;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Enable-Midstream-Partners-Reviews-E817428.htm;128;Enable Midstream Partners LP;Enable Midstream Partners;2055838;4
+8;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/M-and-T-Bank-Reviews-E858.htm;1900;M&T Bank Corp;MandT Bank;2057738;4
+4700;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/People-s-United-Bank-Reviews-E199620.htm;754;People's United Financial Inc;People's United Financial;2058492;4
+70;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Secure-Energy-Services-Reviews-E721876.htm;110;Secure Energy Services Inc;Secure Energy Services;2058602;4
+4631;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Tervita-Reviews-E496879_P3.htm;199;Tervita Corp;Tervita;2058801;4
+10;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/WSFS-Financial-Reviews-E1910.htm;157;WSFS Financial Corp;WSFS Financial;2058958;4
+4686;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Bryn-Mawr-Trust-Reviews-E1196.htm;73;Bryn Mawr Bank Corp;Bryn Mawr Bank;2059031;4
+93;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Canadian-Pacific-Reviews-E13514.htm;734;Canadian Pacific Railway Ltd;Canadian Pacific Railway;2059765;4
+4572;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Kansas-City-Southern-Reviews-E19562.htm;156;Kansas City Southern;Kansas City Southern;2059921;4
+68;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/SYNNEX-Reviews-E12131.htm;515;SYNNEX Corp;SYNNEX;2060436;4
+4626;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Tech-Data-Reviews-E1944.htm;1600;Tech Data Corp;Tech Data;2062036;4
+91;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/BancorpSouth-Reviews-E1171.htm;241;BancorpSouth Bank;BancorpSouth Bank;2062277;4
+4656;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Cadence-Financial-Reviews-E543835.htm;125;Cadence Bancorp;Cadence Bancorp;2062402;4
+14;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Thermo-Fisher-Scientific-Reviews-E658.htm;6700;Thermo Fisher Scientific Inc;Thermo Fisher Scientific;2069102;4
+4577;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/PPD-Reviews-E5695.htm;3200;PPD Inc;PPD;2072302;4
+17;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Herman-Miller-Reviews-E1485.htm;529;Herman Miller Inc;Herman Miller;2072831;4
+4579;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Knoll-Reviews-E5511.htm;294;Knoll Inc;Knoll;2073125;4
+128;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Discovery-Inc-Reviews-E4220.htm;1600;Discovery Inc;Discovery;2074725;4
+4639;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/WarnerMedia-Reviews-E12777.htm;2400;Warner Media LLC;Warner Media;2077125;4
+21;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Berkshire-Hathaway-Reviews-E805672.htm;693;Berkshire Hathaway Inc;Berkshire Hathaway;2077818;4
+4587;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Aon-Reviews-E53.htm;5600;Aon PLC;Aon;2083418;4
+26;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Old-National-Bancorp-Reviews-E1730.htm;203;Old National Bancorp;Old National Bancorp;2083621;4
+4669;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/First-Midwest-Bank-Reviews-E1415.htm;260;First Midwest Bancorp Inc;First Midwest Bancorp;2083881;4
+28;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Vulcan-Materials-Reviews-E709.htm;339;Vulcan Materials Co;Vulcan Materials;2084220;4
+4591;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/U-S-Concrete-Reviews-E9190.htm;44;US Concrete Inc;US Concrete;2084264;4
+87;1,54E+11;1;1;1;1;1;https://www.glassdoor.co.uk/Reviews/CNH-Industrial-Reviews-E6538.htm;933;CNH Industrial NV;CNH Industrial NV;2085197;4
+4593;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Raven-Industries-Reviews-E993.htm;100;Raven Industries Inc;Raven Industries;2085297;4
+77;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Patterson-UTI-Energy-Reviews-E2585.htm;71;Patterson-UTI Energy Inc;Patterson-UTI Energy;2085368;4
+4637;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Pioneer-Energy-Services-Reviews-E725601.htm;60;Pioneer Energy Services Corp;Pioneer Energy Services;2085428;4
+31;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Wesfarmers-Reviews-E18089.htm;97;Wesfarmers Ltd;Wesfarmers;2085525;4
+4595;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Australian-Pharmaceutical-Industries-Reviews-E41952.htm;42;Australian Pharmaceutical Industries Ltd;Australian Pharmaceutical Industries;2085567;4
+34;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Independence-Realty-Trust-Reviews-E1729776.htm;58;Independence Realty Trust Inc;Independence Realty Trust;2085625;4
+4701;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Steadfast-Companies-Reviews-E341933.htm;215;Steadfast Apartment REIT Inc;Steadfast Apartment REIT;2085840;4
+95;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Baxter-Reviews-E83.htm;3200;Baxter International Inc;Baxter International;2089040;4
+4605;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Hill-Rom-Reviews-E19740.htm;593;Hill-Rom Holdings Inc;Hill-Rom;2089633;4
+38;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Block-Reviews-E422050.htm;1047;Square Inc;Square;2090680;4
+4600;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Afterpay-Reviews-E1956008.htm;123;Afterpay Ltd;Afterpay;2090803;4
+39;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Parker-Hannifin-Reviews-E517.htm;2300;Parker Hannifin Corp;Parker Hannifin;2093103;4
+4601;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Meggitt-Reviews-E10198.htm;895;Meggitt PLC;Meggitt;2093998;4
+41;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Penn-National-Gaming-Reviews-E2669.htm;440;Penn National Gaming Inc;Penn National Gaming;2094438;4
+4654;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/theScore-Reviews-E648338.htm;122;Score Media & Gaming Inc;Score Media and Gaming;2094560;4
+104;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/BHP-Reviews-E3459.htm;1800;BHP Group Ltd;BHP Group;2096360;4
+4696;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/BHP-Reviews-E3459.htm;1800;BHP Group PLC;BHP Group;2098160;4
+138;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/First-Interstate-Reviews-E17174.htm;128;First Interstate BancSystem Inc;First Interstate BancSystem;2098288;4
+4664;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Great-Western-Bancorp-Reviews-E23341.htm;142;Great Western Bancorp Inc;Great Western Bancorp;2098430;4
+102;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Emerson-Reviews-E225.htm;5133;Emerson Electric Co;Emerson Electric;2103563;4
+4650;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Aspen-Technology-Inc-Reviews-E3701.htm;521;Aspen Technology Inc;Aspen Technology;2104084;4
+48;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Pacira-BioSciences-Reviews-E3884.htm;101;Pacira Biosciences Inc;Pacira Biosciences;2104185;4
+4607;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Flexion-Therapeutics-Reviews-E1164162.htm;75;Flexion Therapeutics Inc;Flexion Therapeutics;2104260;4
+56;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/OpenText-Reviews-E5694.htm;3200;OpenText Corp;OpenText;2107460;4
+4616;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Zix-Reviews-E2057.htm;72;Zix Corp;Zix;2107532;4
+57;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Lemonade-Reviews-E1736285.htm;345;Lemonade Inc;Lemonade;2107877;4
+4617;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Metromile-Reviews-E653576.htm;224;Metromile Inc;Metromile;2108101;4
+112;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Jack-in-the-Box-Reviews-E1373.htm;2200;Jack in the Box Inc;Jack in the Box;2110301;4
+4640;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Del-Taco-Restaurant-Reviews-EI_IE5620.0,8_KO9,19.htm;774;Del Taco Restaurants Inc;Del Taco Restaurants;2111075;4
+60;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Kinross-Gold-Reviews-E3887.htm;235;Kinross Gold Corp;Kinross Gold;2111310;4
+4649;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Great-Bear-Reviews-E33007.htm;58;Great Bear Resources Ltd;Great Bear Resources;2111368;4
+62;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Pfizer-Reviews-E525.htm;6100;Pfizer Inc;Pfizer;2117468;4
+4620;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Arena-Pharmaceuticals-Reviews-E11934.htm;73;Arena Pharmaceuticals Inc;Arena Pharmaceuticals;2117541;4
+64;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Entegris-Reviews-E6272.htm;392;Entegris Inc;Entegris;2117933;4
+4622;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/CMC-Materials-Reviews-E11440.htm;154;CMC Materials Inc;CMC Materials;2118087;4
+65;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Oracle-Reviews-E1737.htm;42400;Oracle Corp;Oracle;2160487;4
+4623;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Cerner-Reviews-E1242.htm;8600;Cerner Corp;Cerner;2169087;4
+119;1,54E+11;1;1;1;1;1;https://www.glassdoor.com/Reviews/Quidel-Reviews-E1469.htm;158;Quidel Corp;Quidel;2169245;4
+4667;1,54E+11;1;1;0;1;1;https://www.glassdoor.com/Reviews/Ortho-Clinical-Diagnostics-Reviews-E13592.htm;483;Ortho Clinical Diagnostics Holdings PLC;Ortho Clinical Diagnostics;2169728;4
